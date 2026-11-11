@@ -58,7 +58,7 @@ def main():
             bad = []
             for t in tabs:
                 if w <= 760:   # mobil: alt gezinme (4 ana ekran) + "Daha fazla" sayfası; gerçek dokunma/tıklama
-                    if t in ("bugun", "takvim", "slayt", "sorular"):
+                    if t in ("bugun", "takvim", "hazirlan", "slayt"):
                         a = pg.locator(f'.bnav a[data-bt="{t}"]')
                     else:
                         pg.click('.bnav [data-bmore]'); pg.wait_for_timeout(100); a = pg.locator(f'#bsheet a[data-bt="{t}"]')

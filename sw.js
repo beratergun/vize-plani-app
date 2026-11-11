@@ -1,7 +1,7 @@
-/* Vize Planı service worker — sürüm 7738f29956
+/* Vize Planı service worker — sürüm 414542e619
    Kural: HTML ağ-öncelikli (eski sürümde takılma yok), kabuk dosyaları önbellekte; PDF/özel dosya/yerel sunucu asla önbelleğe alınmaz.
    Kullanıcı verisi (localStorage/IndexedDB) service worker tarafından hiç silinmez. */
-const V = "vizeplan-7738f29956";
+const V = "vizeplan-414542e619";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/maskable-512.png", "icons/apple-touch-icon.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(V).then(c => Promise.all(CORE.map(u => fetch(new Request(u, {cache: "reload"})).then(r => { if (!r.ok) throw new Error(u + " " + r.status); return c.put(u, r); }))))); });
 self.addEventListener("message", e => { if (e.data === "skip") self.skipWaiting(); });

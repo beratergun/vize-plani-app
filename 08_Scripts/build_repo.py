@@ -188,7 +188,7 @@ def main():
             continue
         p = os.path.join(dest, name)
         shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
-    ign = shutil.ignore_patterns("__pycache__", "*.pyc", "progress.json", "backups", "*.html", "questions_orig.py", "questions_review.py", "QA_V7", "prep453.py", "inventory_v8.py", "slides.py", "build_library_extra.py", "e2e_prep453.py", "explanations.json")  # hoca materyalinden türetilen betikler herkese açık depoya GİRMEZ
+    ign = shutil.ignore_patterns("__pycache__", "*.pyc", "progress.json", "backups", "*.html", "questions_orig.py", "questions_review.py", "QA_V7", "prep453.py", "inventory_v8.py", "slides.py", "build_library_extra.py", "e2e_prep453.py", "explanations.json", "privacy_audit.py", "e2e_v104.py", "private_skip.json")  # hoca materyalinden türetilen betikler herkese açık depoya GİRMEZ
     for d in COPY + ["10_Website"]:
         shutil.copytree(os.path.join(ROOT, d), os.path.join(dest, d), ignore=ign if d != "10_Website" else shutil.ignore_patterns("__pycache__", "artifact_page.html", "artifact_candidate_v7.html", "index.html", "*.ics"))
     # PDF kaynak HTML'leri depoya alınmaz; site tek dosya
