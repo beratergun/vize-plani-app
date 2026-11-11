@@ -1,0 +1,84 @@
+﻿Ders,Dosya,Sayfa/slayt aralığı,Syllabus konusu,Zorluk,Tahmini dk,Öğrenme çıktısı,Çalışma tarihi,Tekrar tarihi (D+1),Durum
+BIO110,Materyal bekleniyor,—,Chemical Context of Life,3,75,15 kavram sorusu + 10 flashcard (bağ türleri tablosu),2026-10-30,2026-10-31,Not Started
+BIO110,Materyal bekleniyor,—,Water and Life,3,70,15 kavram sorusu + özellik→örnek tablosu + 10 flashcard,2026-10-30,2026-10-31,Not Started
+BIO110,Materyal bekleniyor,—,Carbon and the Molecular Diversity of Life,3,60,Fonksiyonel grup kartları (7) + 12 izomer/grup sorusu,2026-10-30,2026-10-31,Not Started
+BIO110,Materyal bekleniyor,—,"Large Biological Molecules (carbs, lipids)",3,70,Karşılaştırma tablosu + 15 soru,2026-10-31,2026-11-01,Not Started
+BIO110,Materyal bekleniyor,—,"Large Biological Molecules (proteins, nucleic acids)",3,80,Protein yapı basamaklarını belleğten çiz + 15 soru,2026-10-31,2026-11-01,Not Started
+BIO110,Materyal bekleniyor,—,A Tour of the Cell (1),3,70,Hücre şemasını boş çizip etiketle + 15 soru,2026-10-31,2026-11-01,Not Started
+BIO110,Materyal bekleniyor,—,A Tour of the Cell (2),3,60,Organel → görev tablosu + 12 soru,2026-11-01,2026-11-02,Not Started
+BIO110,Materyal bekleniyor,—,Membrane Structure and Function,3,80,Ozmoz/tonisite 6 senaryo + 15 soru,2026-11-01,2026-11-02,Not Started
+BIO110,Materyal bekleniyor,—,An Introduction to Metabolism,3,80,Enzim grafiği yorumlama 5 soru + 15 soru,2026-11-01,2026-11-02,Not Started
+BIO110,Materyal bekleniyor,—,Cellular Respiration,3,110,Yolu bellekten çiz (girdi/çıktı tablosu) + 20 soru,2026-11-01,2026-11-02,Not Started
+BIO110,Materyal bekleniyor,—,Photosynthesis,3,90,Kloroplast şeması + solunum–fotosentez karşılaştırma tablosu + 15 soru,2026-11-02,2026-11-03,Not Started
+BIO110,Materyal bekleniyor,—,Cell Cycle and Cellular Reproduction,3,80,Mitoz evreleri çizimi + 15 soru,2026-11-13,2026-11-14,Not Started
+BIO110,Materyal bekleniyor,—,Mendel and the Gene Idea,3,90,10 genetik problem (kolaydan zora) + 10 soru,2026-11-14,2026-11-15,Not Started
+BIO110,Materyal bekleniyor,—,Chromosomal Basis of Inheritance,3,90,8 problem + 10 soru,2026-11-15,2026-11-16,Not Started
+BIO110,Materyal bekleniyor,—,Molecular Basis of Inheritance,3,90,Replikasyon çatalı çizimi + 15 soru,2026-11-16,2026-11-17,Not Started
+BIO110,Materyal bekleniyor,—,Gene Expression: From Gene to Protein,3,100,mRNA→protein 8 alıştırma + süreç şeması + 15 soru,2026-11-17,2026-11-18,Not Started
+BIO110,Materyal bekleniyor,—,Regulation of Gene Expression,3,80,lac/trp operon 6 senaryo + 12 soru,2026-11-18,2026-11-19,Not Started
+BIO110,Materyal bekleniyor,—,DNA Tools and Biotechnology,3,70,PCR/jel yorumlama 5 soru + 12 soru,2026-11-19,2026-11-20,Not Started
+BIO110,Materyal bekleniyor,—,Descent with Modification,3,60,Kavram kartları + 12 soru,2026-11-29,2026-11-30,Not Started
+BIO110,Materyal bekleniyor,—,Evolution of Populations,3,80,6 Hardy–Weinberg problemi + 12 soru,2026-12-02,2026-12-03,Not Started
+CMPE371,Materyal bekleniyor,—,Prerequisite: complex numbers,5,40,8 temel problem (kutupsal↔kartezyen),2026-10-30,2026-10-31,Not Started
+CMPE371,Materyal bekleniyor,—,Prerequisite: trig/exp/calculus,5,50,10 problem,2026-10-31,2026-11-01,Not Started
+CMPE371,Materyal bekleniyor,—,Introduction to Signals and Systems,5,70,8 temel + 5 orta sinyal dönüşüm problemi,2026-11-01,2026-11-02,Not Started
+CMPE371,Materyal bekleniyor,—,Sinusoids,5,70,"8 temel + 5 orta problem, yanlış analizi",2026-11-02,2026-11-03,Not Started
+CMPE371,Materyal bekleniyor,—,Special Signals,5,70,8 temel + 5 orta problem,2026-11-03,2026-11-04,Not Started
+CMPE371,Materyal bekleniyor,—,System Properties,5,80,10 sistemi özelliklere göre sınıflandır (gerekçeli),2026-11-04,2026-11-05,Not Started
+CMPE371,Materyal bekleniyor,—,LTI Systems (DT convolution),5,80,6 temel + 4 orta hesap,2026-11-05,2026-11-06,Not Started
+CMPE371,Materyal bekleniyor,—,LTI Systems (CT convolution),5,90,5 temel + 4 orta hesap,2026-11-05,2026-11-06,Not Started
+CMPE371,Materyal bekleniyor,—,LTI Systems (properties),5,60,6 problem + blok diyagram 3 örnek,2026-11-06,2026-11-07,Not Started
+CMPE371,Materyal bekleniyor,—,Differential and Difference Equations,5,90,5 temel + 4 orta çözüm,2026-11-07,2026-11-08,Not Started
+CMPE371,Materyal bekleniyor,—,Continuous-Time Fourier Series,5,90,5 katsayı hesabı + 3 yorum sorusu,2026-11-08,2026-11-09,Not Started
+CMPE371,Materyal bekleniyor,—,Continuous-Time Fourier Transform,5,100,6 dönüşüm + 4 özellik sorusu,2026-11-15,2026-11-16,Not Started
+CMPE371,Materyal bekleniyor,—,Discrete-Time Fourier Series,5,80,5 katsayı hesabı + 3 yorum,2026-12-01,2026-12-02,Not Started
+CMPE371,Materyal bekleniyor,—,Discrete-Time Fourier Transform,5,90,6 dönüşüm + 4 özellik sorusu,2026-12-02,2026-12-03,Not Started
+CMPE371,Materyal bekleniyor,—,Filtering,5,80,6 filtre problemi,2026-12-08,2026-12-09,Not Started
+CMPE371,Materyal bekleniyor,—,Sampling,5,90,"6 problem (Nyquist, aliasing)",2026-12-13,2026-12-14,Not Started
+CMPE371,Materyal bekleniyor,—,Z-Transform,5,100,6 dönüşüm + 4 ters Z,2026-12-17,2026-12-18,Not Started
+CMPE327,Materyal bekleniyor,—,History; Central Concepts; Mathematical Preliminaries,4,80,6 dil tanımlama + 2 tümevarım ispatı,2026-10-30,2026-10-31,Not Started
+CMPE327,Materyal bekleniyor,—,Deterministic Finite Automata,4,80,"8 DFA çiz (son iki sembol, mod sayma, alt dize)",2026-10-31,2026-11-01,Not Started
+CMPE327,Materyal bekleniyor,—,Nondeterministic Finite Automata,4,70,8 NFA çiz + string izleme,2026-11-04,2026-11-05,Not Started
+CMPE327,Materyal bekleniyor,—,Equivalence of DFA and NFA,4,70,6 NFA→DFA dönüştürme,2026-11-05,2026-11-06,Not Started
+CMPE327,Materyal bekleniyor,—,Closure Properties; Regular Languages,4,60,5 yapı + 3 kısa ispat,2026-11-06,2026-11-07,Not Started
+CMPE327,Materyal bekleniyor,—,Regular Expressions; Pattern Matching,4,80,8 regex yaz + 4 dönüşüm,2026-11-07,2026-11-08,Not Started
+CMPE327,Materyal bekleniyor,—,DFA State Minimization,4,70,5 minimizasyon,2026-11-08,2026-11-09,Not Started
+CMPE327,Materyal bekleniyor,—,Myhill–Nerode Relations,4,70,4 problem + 2 kısa ispat,2026-11-09,2026-11-10,Not Started
+CMPE327,Materyal bekleniyor,—,Derivatives; Equivalence of Regular Expressions,4,70,6 türev hesabı + 3 denklik,2026-11-10,2026-11-11,Not Started
+CMPE327,Materyal bekleniyor,—,Context-Free Grammars,4,70,8 CFG tasarla,2026-11-11,2026-11-12,Not Started
+CMPE327,Materyal bekleniyor,—,Ambiguity; DFA Equivalence Checking,4,60,4 gramer + 3 denklik kontrolü,2026-11-12,2026-11-13,Not Started
+CMPE327,Materyal bekleniyor,—,Chomsky Normal Form,4,70,5 CNF dönüştürme,2026-11-30,2026-12-01,Not Started
+CMPE327,Materyal bekleniyor,—,CYK Algorithm,4,70,6 CYK tablosu,2026-11-30,2026-12-01,Not Started
+CMPE327,Materyal bekleniyor,—,Pumping Lemma; Nonregularity,4,90,8 dil için düzenli değil ispatı,2026-12-03,2026-12-04,Not Started
+CMPE327,Materyal bekleniyor,—,Pushdown Automata,4,90,6 PDA tasarla/izle,2026-12-06,2026-12-07,Not Started
+CMPE327,Materyal bekleniyor,—,Ogden's Lemma,4,60,4 problem,2026-12-08,2026-12-09,Not Started
+CMPE327,Materyal bekleniyor,—,Turing Machines,4,90,5 TM tasarla/izle,2026-12-13,2026-12-14,Not Started
+CMPE327,Materyal bekleniyor,—,Decision Problems,4,60,kavram soruları + 4 örnek,2026-12-13,2026-12-14,Not Started
+CMPE421,Materyal bekleniyor,—,Introduction to AI; Intelligent Agents,4,60,6 PEAS tanımı + 10 kavram sorusu,2026-11-03,2026-11-04,Not Started
+CMPE421,Materyal bekleniyor,—,Uninformed Search Algorithms,4,80,5 arama ağacı izle + karşılaştırma tablosu,2026-11-04,2026-11-05,Not Started
+CMPE421,Materyal bekleniyor,—,Informed Search Algorithms,4,80,5 A* izleme + 3 sezgisel kanıt,2026-11-07,2026-11-08,Not Started
+CMPE421,Materyal bekleniyor,—,Game Playing,4,70,5 oyun ağacı (budama sırası),2026-11-08,2026-11-09,Not Started
+CMPE421,Materyal bekleniyor,—,Constraint Satisfaction; Adversarial Search,4,70,4 CSP elle çöz,2026-11-09,2026-11-10,Not Started
+CMPE421,Materyal bekleniyor,—,Planning,4,70,4 plan problemi,2026-11-10,2026-11-11,Not Started
+CMPE421,Materyal bekleniyor,—,Knowledge Representation and Reasoning,4,80,10 mantık sorusu,2026-11-11,2026-11-12,Not Started
+CMPE421,Materyal bekleniyor,—,Theorem Proving,4,80,5 resolution ispatı,2026-11-12,2026-11-13,Not Started
+CMPE421,Materyal bekleniyor,—,Uncertainty,4,80,8 olasılık problemi,2026-11-14,2026-11-15,Not Started
+CMPE421,Materyal bekleniyor,—,Machine Learning Fundamentals,4,70,10 kavram + 3 metrik hesabı,2026-11-28,2026-11-29,Not Started
+CMPE421,Materyal bekleniyor,—,Classification and Regression,4,80,4 elle hesap,2026-11-29,2026-11-30,Not Started
+CMPE421,Materyal bekleniyor,—,Neural Networks and Deep Learning,4,80,3 ileri-geri yayılım hesabı,2026-12-05,2026-12-06,Not Started
+CMPE421,Materyal bekleniyor,—,NLP and LLMs,4,70,10 kavram sorusu,2026-12-07,2026-12-08,Not Started
+CMPE421,Materyal bekleniyor,—,Reinforcement Learning,4,80,3 Q-learning güncellemesi,2026-12-09,2026-12-10,Not Started
+CMPE421,Materyal bekleniyor,—,"Ethics, Explainability and Responsible AI",4,50,kısa yazılı cevap 3 adet,2026-12-12,2026-12-13,Not Started
+CMPE453,Materyal bekleniyor,—,Course Overview; Architecture of AVR (Elliot Ch.1),4,70,Blok şemayı belleğten çiz + 10 kavram sorusu,2026-11-04,2026-11-05,Not Started
+CMPE453,Materyal bekleniyor,—,Programming AVR Microcontroller (Elliot Ch.2–4),4,80,12 bit işlemi alıştırması + 5 kod oku,2026-11-05,2026-11-06,Not Started
+CMPE453,Materyal bekleniyor,—,AVR Microcontroller I/O (Lab 1),4,70,8 kod parçasını izle + 4 kod yaz (kağıt),2026-11-06,2026-11-07,Not Started
+CMPE453,Materyal bekleniyor,—,"Programming Digital Input (Lab 2, Elliot Ch.5)",4,60,6 kod okuma + 3 buton-LED uygulaması (kağıt),2026-11-07,2026-11-08,Not Started
+CMPE453,Materyal bekleniyor,—,Serial Communication: USART (Elliot Ch.5),4,80,5 baud/UBRR hesabı + 4 kod okuma,2026-11-08,2026-11-09,Not Started
+CMPE453,Materyal bekleniyor,—,"Serial Communication: SPI, I2C (Lab 3, Elliot Ch.7)",4,80,Zaman diyagramı çiz + 6 soru,2026-11-09,2026-11-10,Not Started
+CMPE453,Materyal bekleniyor,—,Analog-to-Digital Conversion (Elliot Ch.7),4,70,6 dönüşüm hesabı + 3 kod okuma,2026-11-10,2026-11-11,Not Started
+CMPE453,Materyal bekleniyor,—,Interrupts (Elliot Ch.8),4,80,5 ISR kod okuma + 3 yazma (kağıt),2026-11-15,2026-11-16,Not Started
+CMPE453,Materyal bekleniyor,—,"Timers/counters (Lab 4, Elliot Ch.9)",4,90,6 zaman hesabı + 3 kod,2026-11-17,2026-11-18,Not Started
+CMPE453,Materyal bekleniyor,—,PWM (Elliot Ch.10),4,80,6 duty/frekans hesabı,2026-11-28,2026-11-29,Not Started
+CMPE453,Materyal bekleniyor,—,Basics of ARM Cortex (STM32) (STM32 Manual),4,60,10 kavram sorusu,2026-12-04,2026-12-05,Not Started
+CMPE453,Materyal bekleniyor,—,GPIO Configuration and LED Blinking,4,80,5 register yapılandırması (kağıt) (Lab 5),2026-12-07,2026-12-08,Not Started
+CMPE453,Materyal bekleniyor,—,PWM for ARM Cortex,4,80,5 hesap + 2 kod (Lab 6),2026-12-12,2026-12-13,Not Started

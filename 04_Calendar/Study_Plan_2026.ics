@@ -1,0 +1,2214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Academic Success Plan 2026//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Study Plan 2026 (Günlük görevler)
+X-WR-TIMEZONE:Europe/Istanbul
+X-WR-CALDESC:Günlük akademik plan\; tüm gün etkinlikleri. Sabah 08:00 h
+ atırlatma.
+BEGIN:VTIMEZONE
+TZID:Europe/Istanbul
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:+03
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:study-2026-10-30@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:BIO110 · The Chemical Context of Life · P1 · Min 4\,5sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 1 (4 gün) · The Chemical 
+ Context of Life + Water and Life\nFaz: Faz 1 — BIO110 Midterm 1\n\nMİN
+ İMUM PLAN (≈270 dk):\n[ ] GENEL (25 dk): Doğrulama paketi — (1) BIO1
+ 10 midterm 1 kapsamı (hangi bölümler)\; (2) CMPE327 (15 Kas) ve CMPE421
+  (20 Kas) vize kapsamları\; (3) CMPE453 vize kapsamı\; (4) CMPE371 HW1 t
+ eslim günü\; (5) CMPE327 Quiz-1 (syllabus W5) yapıldı mı. ▸ Sonuçl
+ arı Exam Countdown sayfasına/plana not et\; tarih değişirse REPLAN_GUI
+ DE'a göre güncelle\n[ ] BIO110 (75 dk): The Chemical Context of Life —
+  atom\, element\, izotop\, elektron kabukları\, kovalent/iyonik/hidrojen 
+ bağı\, kimyasal reaksiyon ve denge. ▸ 15 kavram sorusu + 10 flashcard 
+ (bağ türleri tablosu)\n[ ] BIO110 (70 dk): Water and Life — suyun pola
+ ritesi\, H-bağı\, kohezyon/adezyon\, özgül ısı\, çözücülük\, pH
+  ve tampon. ▸ 15 kavram sorusu + özellik→örnek tablosu + 10 flashcar
+ d\n[ ] BIO110 (60 dk): Carbon and Molecular Diversity — karbon iskeleti\
+ , hidrokarbonlar\, izomer türleri\, 7 fonksiyonel grup. ▸ Fonksiyonel g
+ rup kartları (7) + 12 izomer/grup sorusu\n[ ] CMPE371 (40 dk): Önkoşul:
+  karmaşık sayılar ve Euler — a+jb\, kutupsal gösterim\, |z|\, ∠z\,
+  e^{jθ}=cosθ+j sinθ\, çarpma/bölme. ▸ 8 temel problem (kutupsal↔k
+ artezyen)\n\nİSTEĞE BAĞLI EK (toplam ≈375 dk):\n[ ] BIO110 (25 dk): H
+ ızlı hatırlama — B01–B02 kartları. ▸ 20 soru kapalı kitap\n[ ] 
+ CMPE327 (80 dk): Central concepts + mathematical preliminaries — alfabe\
+ , string\, dil\, işlemler\; küme\, ilişki\, fonksiyon\; tümevarım ve 
+ çelişki ile ispat. ▸ 6 dil tanımlama + 2 tümevarım ispatı\n\nTamam
+ lanma kriteri: min görevler işaretli + her blok sonunda soru/yanlış an
+ alizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUID
+ E.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 1
+  (4 gün) · The Chemical C)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-10-31@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:BIO110 · Büyük moleküller I: karbonhidrat + lipid · P1 · Min 
+ 4\,3sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 1 (3 gün) · Büyük molek
+ üller I: karbonhidrat + lipid + Büyük moleküller II: protein + nüklei
+ k asit\nFaz: Faz 1 — BIO110 Midterm 1\n\nMİNİMUM PLAN (≈260 dk):\n[ 
+ ] BIO110 (70 dk): Büyük moleküller I: karbonhidrat + lipid — monomer/
+ polimer\, dehidrasyon-hidroliz\, glikozidik bağ\, nişasta/glikojen/selü
+ loz\, yağ asidi\, fosfolipid. ▸ Karşılaştırma tablosu + 15 soru\n[ 
+ ] BIO110 (80 dk): Büyük moleküller II: protein + nükleik asit — amin
+ o asit\, peptit bağı\, 4 yapı düzeyi\, denatürasyon\, DNA/RNA yapıs
+ ı. ▸ Protein yapı basamaklarını belleğten çiz + 15 soru\n[ ] BIO11
+ 0 (70 dk): Hücre turu I — prokaryot/ökaryot\, çekirdek\, ribozom\, en
+ domembran sistemi (ER\, Golgi\, lizozom\, vakuol). ▸ Hücre şemasını 
+ boş çizip etiketle + 15 soru\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap 
+ aktif hatırlama\, konu başına ~8 dk): Central concepts + mathematical p
+ reliminaries (D+1)\n[ ] BIO110 (24 dk): Tekrar (kapalı kitap aktif hatır
+ lama\, konu başına ~8 dk): The Chemical Context of Life (D+1)\; Water an
+ d Life (D+1)\; Carbon and Molecular Diversity (D+1)\n[ ] CMPE371 (8 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Önkoşul: k
+ armaşık sayılar ve Euler (D+1)\n\nİSTEĞE BAĞLI EK (toplam ≈390 dk)
+ :\n[ ] CMPE371 (50 dk): Önkoşul: trigonometri\, üstel\, türev/integral
+  — sin/cos özdeşlikleri\, e^x kuralları\, temel türev ve belirli int
+ egral. ▸ 10 problem\n[ ] CMPE327 (80 dk): DFA — tanım (5'li)\, geçi
+ ş tablosu/diyagramı\, dil tanıma\, tasarım. ▸ 8 DFA çiz (son iki se
+ mbol\, mod sayma\, alt dize)\n\nTamamlanma kriteri: min görevler işaretl
+ i + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın gör
+ ev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 1
+  (3 gün) · Büyük moleküll)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-01@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:BIO110 · Hücre turu II · P1 · Min 6\,2sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 1 (2 gün) · Hücre turu I
+ I + Membrane Structure and Function\nFaz: Faz 1 — BIO110 Midterm 1\n\nM
+ İNİMUM PLAN (≈370 dk):\n[ ] BIO110 (60 dk): Hücre turu II — mitokon
+ dri\, kloroplast\, sitoiskelet\, hücre dışı matriks\, hücre bağlant
+ ıları. ▸ Organel → görev tablosu + 12 soru\n[ ] BIO110 (80 dk): Mem
+ brane Structure and Function — akışkan mozaik model\, seçici geçirge
+ nlik\, difüzyon/ozmoz\, tonisite\, aktif taşıma\, kotransport. ▸ Ozmo
+ z/tonisite 6 senaryo + 15 soru\n[ ] BIO110 (80 dk): An Introduction to Met
+ abolism — enerji\, termodinamik\, ΔG\, ATP döngüsü\, enzimler\, inhi
+ bisyon\, regülasyon. ▸ Enzim grafiği yorumlama 5 soru + 15 soru\n[ ] B
+ IO110 (110 dk): Cellular Respiration — glikoliz\, piruvat oksidasyonu\, 
+ Krebs\, ETZ/oksidatif fosforilasyon\, fermentasyon\; net ATP/NADH hesabı.
+  ▸ Yolu bellekten çiz (girdi/çıktı tablosu) + 20 soru\n[ ] CMPE327 (
+ 8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): DFA 
+ (D+1)\n[ ] BIO110 (24 dk): Tekrar (kapalı kitap aktif hatırlama\, konu b
+ aşına ~8 dk): Büyük moleküller I: karbonhidrat + lipid (D+1)\; Büyü
+ k moleküller II: protein + nükleik asit (D+1)\; Hücre turu I (D+1)\n[ ]
+  CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8
+  dk): Önkoşul: trigonometri\, üstel\, türev/integral (D+1)\n\nİSTEĞE
+  BAĞLI EK (toplam ≈500 dk):\n[ ] BIO110 (60 dk): Konu testi (B01–B08)
+  — karma test. ▸ 40 soru + yanlış analizi\n[ ] CMPE371 (70 dk): Intr
+ oduction to Signals and Systems — sürekli/ayrık sinyal\, enerji/güç\
+ , zaman kaydırma-ölçekleme-ters çevirme\, sistem kavramı. ▸ 8 temel
+  + 5 orta sinyal dönüşüm problemi\n\nTamamlanma kriteri: min görevler
+  işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadı
+ ğın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden 
+ planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 1
+  (2 gün) · Hücre turu II )
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-02@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:BIO110 · Photosynthesis · P1 · Min 4\,5sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 1 (1 gün) · Photosynthesi
+ s + Karma deneme 1 (B01–B09)\nFaz: Faz 1 — BIO110 Midterm 1\n\nMİNİM
+ UM PLAN (≈270 dk):\n[ ] BIO110 (90 dk): Photosynthesis — ışık reaks
+ iyonları\, Calvin döngüsü\, C3/C4/CAM\, solunumla karşılaştırma. 
+ ▸ Kloroplast şeması + solunum–fotosentez karşılaştırma tablosu +
+  15 soru\n[ ] BIO110 (60 dk): Karma deneme 1 (B01–B09) — tam kapsam de
+ neme. ▸ 50 soru\, sınav hızında\n[ ] BIO110 (40 dk): Deneme yanlış 
+ analizi — her yanlış için sebep: bilgi/kavram/dikkat. ▸ Yanlış ko
+ nuları 15'er dk yeniden çalış\n[ ] BIO110 (56 dk): Tekrar (kapalı kit
+ ap aktif hatırlama\, konu başına ~8 dk): Hücre turu II (D+1)\; Membran
+ e Structure and Function (D+1)\; An Introduction to Metabolism (D+1)\; Cel
+ lular Respiration (D+1)\; The Chemical Context of Life (D+3)\; Water and L
+ ife (D+3)\; Carbon and Molecular Diversity (D+3)\n[ ] CMPE371 (16 dk): Tek
+ rar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Introduction t
+ o Signals and Systems (D+1)\; Önkoşul: karmaşık sayılar ve Euler (D+3
+ )\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu baş
+ ına ~8 dk): Central concepts + mathematical preliminaries (D+3)\n\nİSTE
+ ĞE BAĞLI EK (toplam ≈380 dk):\n[ ] BIO110 (40 dk): Şema ve tablo seti
+  — solunum\, fotosentez\, membran\, hücre şemaları. ▸ Boş kağıda
+  6 şemayı belleğten çiz\n[ ] CMPE371 (70 dk): Sinusoids — genlik\, f
+ rekans\, faz\, periyot\, fazör gösterimi\, sinüzoid toplamı. ▸ 8 tem
+ el + 5 orta problem\, yanlış analizi\n\nTamamlanma kriteri: min görevle
+ r işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadı
+ ğın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden 
+ planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 1
+  (1 gün) · Photosynthesis)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-03@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:BIO110 · Son kontrollü tekrar · P1 · Min 2\,1sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 1 (0 gün) · Son kontroll
+ ü tekrar + Sınav günü hazırlığı\nFaz: Faz 1 — BIO110 Midterm 1\n
+ \nMİNİMUM PLAN (≈126 dk):\n[ ] BIO110 (60 dk): Son kontrollü tekrar 
+ — yalnızca zayıf konular + şemalar\, yeni konu yok. ▸ Flashcard son
+  tur\, 30 soru karışık\n[ ] BIO110 (10 dk): Sınav günü hazırlığı
+  — Kimlik/öğrenci kartı\, kalem\, saat\, salon\; yeni konu YOK. ▸ G
+ ece uykusu önce\, sabah 20 dk şema gözden geçirme\n[ ] BIO110 (32 dk):
+  Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Photosynth
+ esis (D+1)\; Büyük moleküller I: karbonhidrat + lipid (D+3)\; Büyük m
+ oleküller II: protein + nükleik asit (D+3)\; Hücre turu I (D+3)\n[ ] CM
+ PE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 d
+ k): Sinusoids (D+1)\; Önkoşul: trigonometri\, üstel\, türev/integral (
+ D+3)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu ba
+ şına ~8 dk): DFA (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈361 dk):\n[ ] CM
+ PE371 (70 dk): Special signals — birim basamak\, impuls\, rampa\, üstel
+ \, çift/tek\, periyodiklik. ▸ 8 temel + 5 orta problem\n[ ] CMPE327 (60
+  dk): DFA tasarım pratiği — karma dil kalıpları. ▸ 15 DFA tasarla\
+ ; her birine 3 test string\n[ ] CMPE421 (60 dk): Intro to AI + intelligent
+  agents — AI tanımı\, PEAS\, ortam türleri\, ajan türleri. ▸ 6 PEA
+ S tanımı + 10 kavram sorusu\n[ ] CMPE499 (45 dk): Rapor: yönerge + içe
+ rik planı — bölüm yönergesi/şablon\, sayfa sınırı\, başlık isk
+ eleti. ▸ İskelet + her başlığa 2 madde\n\nTamamlanma kriteri: min g
+ örevler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYa
+ pamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla y
+ eniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 1
+  (0 gün) · Son kontrollü )
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-04@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:CMPE453 · Course overview + ATmega328P architecture · P2 · Min 3
+ \,8sa
+DESCRIPTION:Ana odak: CMPE453 → CMPE453 Midterm (8 gün) · Course overvi
+ ew + ATmega328P architecture\nFaz: Faz 2 — CMPE453 Midterm\n\nMİNİMUM 
+ PLAN (≈226 dk):\n[ ] BIO110 (30 dk): Midterm 1 sonrası analiz — hangi
+  konulardan soru geldi/zayıf kaldı. ▸ Mistake Log + sonraki sınav iç
+ in kapsam notu\n[ ] CMPE453 (70 dk): Course overview + ATmega328P architec
+ ture — CPU\, Flash/SRAM/EEPROM\, register dosyası\, pinler\, saat. ▸ 
+ Blok şemayı belleğten çiz + 10 kavram sorusu\n[ ] CMPE327 (70 dk): NFA
+  ve ε-NFA — tanım\, belirsizlik\, ε-geçişleri\, tasarım. ▸ 8 NFA
+  çiz + string izleme\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hat
+ ırlama\, konu başına ~8 dk): Intro to AI + intelligent agents (D+1)\n[ 
+ ] CMPE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına 
+ ~8 dk): Special signals (D+1)\; Introduction to Signals and Systems (D+3)\
+ n[ ] BIO110 (32 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başın
+ a ~8 dk): Hücre turu II (D+3)\; Membrane Structure and Function (D+3)\; A
+ n Introduction to Metabolism (D+3)\; Cellular Respiration (D+3)\n\nİSTEĞ
+ E BAĞLI EK (toplam ≈386 dk):\n[ ] CMPE371 (80 dk): System properties 
+ — bellek\, nedensellik\, doğrusallık\, zamanla değişmezlik\, kararl
+ ılık\, tersinirlik. ▸ 10 sistemi özelliklere göre sınıflandır (ge
+ rekçeli)\n[ ] CMPE421 (80 dk): Problem solving + uninformed search — pr
+ oblem formülasyonu\, BFS\, DFS\, UCS\, DLS\, IDS\; tam/optimal/karmaşık
+ lık. ▸ 5 arama ağacı izle + karşılaştırma tablosu\n\nTamamlanma k
+ riteri: min görevler işaretli + her blok sonunda soru/yanlış analizi y
+ apıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md ad
+ ımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 → CMPE453 Midter
+ m (8 gün) · Course overvie)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-05@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:CMPE453 · Programming AVR (C + bit işlemleri) · P2 · Min 3\,3sa
+DESCRIPTION:Ana odak: CMPE453 → CMPE453 Midterm (7 gün) · Programming A
+ VR (C + bit işlemleri)\nFaz: Faz 2 — CMPE453 Midterm\n\nMİNİMUM PLAN 
+ (≈198 dk):\n[ ] CMPE453 (80 dk): Programming AVR (C + bit işlemleri) 
+ — register erişimi\, &\,|\,^\,~\,<<\,>>\; bit set/clear/toggle/test. 
+ ▸ 12 bit işlemi alıştırması + 5 kod oku\n[ ] CMPE327 (70 dk): DFA 
+ ≡ NFA (altküme yapısı) — altküme dönüştürmesi\, ε-kapanış. 
+ ▸ 6 NFA→DFA dönüştürme\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap 
+ aktif hatırlama\, konu başına ~8 dk): NFA ve ε-NFA (D+1)\n[ ] CMPE421 
+ (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Pro
+ blem solving + uninformed search (D+1)\n[ ] CMPE453 (8 dk): Tekrar (kapal
+ ı kitap aktif hatırlama\, konu başına ~8 dk): Course overview + ATmega
+ 328P architecture (D+1)\n[ ] CMPE371 (16 dk): Tekrar (kapalı kitap aktif 
+ hatırlama\, konu başına ~8 dk): System properties (D+1)\; Sinusoids (D+
+ 3)\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu baş
+ ına ~8 dk): Photosynthesis (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈368 dk)
+ :\n[ ] CMPE371 (80 dk): LTI I: ayrık konvolüsyon — impuls yanıtı\, k
+ onvolüsyon toplamı\, tablo/grafik yöntem. ▸ 6 temel + 4 orta hesap\n[
+  ] CMPE371 (90 dk): LTI II: sürekli konvolüsyon — konvolüsyon integra
+ li\, grafik yöntem\, standart sinyal çiftleri. ▸ 5 temel + 4 orta hesa
+ p\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru/y
+ anlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; R
+ EPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 → CMPE453 Midter
+ m (7 gün) · Programming AV)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-06@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:CMPE371 · HW1 çalışma 1 · P1 · Min 4\,0sa
+DESCRIPTION:Ana odak: CMPE371 → CMPE371 HW1 (2–6 Kas haftası) (0 gün)
+  · HW1 çalışma 1\nFaz: Faz 2 — CMPE453 Midterm\n\nMİNİMUM PLAN (
+ ≈238 dk):\n[ ] CMPE453 (70 dk): AVR I/O portları — DDRx\, PORTx\, PIN
+ x\; LED desenleri\, çıkış yapılandırma. ▸ 8 kod parçasını izle 
+ + 4 kod yaz (kağıt)\n[ ] CMPE327 (60 dk): Closure properties — birleş
+ im\, kesişim\, tümleyen\, çarpım (product) yapısı. ▸ 5 yapı + 3 k
+ ısa ispat\n[ ] CMPE371 (60 dk): HW1 çalışma 1 — ödev metnini oku\, 
+ S1–S4 ile çözülebilenleri bitir. ▸ ödevin ilk yarısı\n[ ] CMPE32
+ 7 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): D
+ FA ≡ NFA (altküme yapısı) (D+1)\n[ ] CMPE453 (8 dk): Tekrar (kapalı 
+ kitap aktif hatırlama\, konu başına ~8 dk): Programming AVR (C + bit i
+ şlemleri) (D+1)\n[ ] CMPE371 (24 dk): Tekrar (kapalı kitap aktif hatırl
+ ama\, konu başına ~8 dk): LTI I: ayrık konvolüsyon (D+1)\; LTI II: sü
+ rekli konvolüsyon (D+1)\; Special signals (D+3)\n[ ] CMPE421 (8 dk): Tekr
+ ar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Intro to AI + i
+ ntelligent agents (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈398 dk):\n[ ] CMP
+ E371 (60 dk): LTI III: özellikler — değişme/birleşme/dağılma\, imp
+ uls-basamak yanıtı\, nedensellik/kararlılık koşulu\, bağlantılar. 
+ ▸ 6 problem + blok diyagram 3 örnek\n[ ] CMPE499 (60 dk): Rapor: taslak
+  1 — kurum/staj tanıtımı + görev tanımı. ▸ Bölümü yaz\n[ ] CM
+ PE327 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk
+ ): Central concepts + mathematical preliminaries (D+7)\n[ ] BIO110 (24 dk)
+ : Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): The Chemi
+ cal Context of Life (D+7)\; Water and Life (D+7)\; Carbon and Molecular Di
+ versity (D+7)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): Önkoşul: karmaşık sayılar ve Euler (D+7)\n\nT
+ amamlanma kriteri: min görevler işaretli + her blok sonunda soru/yanlı
+ ş analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN
+ _GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 → CMPE371 HW1 (2
+ –6 Kas haftası) (0 gün) · )
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-07@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CMPE327 · Regular expressions · P2 · Min 3\,3sa
+DESCRIPTION:Ana odak: CMPE327 → CMPE327 Quiz (15 Kasım) (8 gün) · Regu
+ lar expressions\nFaz: Faz 2 — CMPE453 Midterm\n\nMİNİMUM PLAN (≈196 
+ dk):\n[ ] CMPE453 (60 dk): Digital input — pull-up/pull-down\, polling\,
+  buton\, bounce ve yazılım debounce. ▸ 6 kod okuma + 3 buton-LED uygul
+ aması (kağıt)\n[ ] CMPE327 (80 dk): Regular expressions — regex sözd
+ izimi\, regex↔NFA\, pattern matching. ▸ 8 regex yaz + 4 dönüşüm\n[
+  ] CMPE327 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına
+  ~8 dk): Closure properties (D+1)\; NFA ve ε-NFA (D+3)\n[ ] CMPE453 (16 d
+ k): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): AVR I/O
+  portları (D+1)\; Course overview + ATmega328P architecture (D+3)\n[ ] CM
+ PE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 d
+ k): LTI III: özellikler (D+1)\; System properties (D+3)\n[ ] CMPE421 (8 d
+ k): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Problem
+  solving + uninformed search (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈406 dk
+ ):\n[ ] CMPE371 (90 dk): Differential and difference equations — homojen
+ +özel çözüm\, başlangıç koşulu\, fark denklemi özyineleme\, impul
+ s yanıtı. ▸ 5 temel + 4 orta çözüm\n[ ] CMPE421 (80 dk): Informed s
+ earch — greedy\, A*\, admissible/consistent sezgisel\, sezgisel tasarım
+ . ▸ 5 A* izleme + 3 sezgisel kanıt\n[ ] CMPE327 (8 dk): Tekrar (kapalı
+  kitap aktif hatırlama\, konu başına ~8 dk): DFA (D+7)\n[ ] BIO110 (24 
+ dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Büyü
+ k moleküller I: karbonhidrat + lipid (D+7)\; Büyük moleküller II: prot
+ ein + nükleik asit (D+7)\; Hücre turu I (D+7)\n[ ] CMPE371 (8 dk): Tekra
+ r (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Önkoşul: trigo
+ nometri\, üstel\, türev/integral (D+7)\n\nTamamlanma kriteri: min görev
+ ler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapamad
+ ığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yenide
+ n planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 → CMPE327 Quiz (
+ 15 Kasım) (8 gün) · Regula)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-08@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:CMPE453 · USART · P1 · Min 4\,6sa
+DESCRIPTION:Ana odak: CMPE453 → CMPE453 Midterm (4 gün) · USART\nFaz: F
+ az 2 — CMPE453 Midterm\n\nMİNİMUM PLAN (≈274 dk):\n[ ] CMPE453 (80 d
+ k): USART — UBRR hesabı\, çerçeve formatı\, UCSR0A/B/C\, gönder/al.
+  ▸ 5 baud/UBRR hesabı + 4 kod okuma\n[ ] CMPE327 (70 dk): DFA state min
+ imization — ayırt edilebilir durumlar\, tablo doldurma. ▸ 5 minimizas
+ yon\n[ ] CMPE371 (60 dk): HW1 çalışma 2 — kalanlar + kontrol + teslim
+ . ▸ ödevi bitir ve teslim et\n[ ] CMPE327 (16 dk): Tekrar (kapalı kita
+ p aktif hatırlama\, konu başına ~8 dk): Regular expressions (D+1)\; DFA
+  ≡ NFA (altküme yapısı) (D+3)\n[ ] CMPE421 (8 dk): Tekrar (kapalı ki
+ tap aktif hatırlama\, konu başına ~8 dk): Informed search (D+1)\n[ ] CM
+ PE453 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 d
+ k): Digital input (D+1)\; Programming AVR (C + bit işlemleri) (D+3)\n[ ] 
+ CMPE371 (24 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8
+  dk): Differential and difference equations (D+1)\; LTI I: ayrık konvolü
+ syon (D+3)\; LTI II: sürekli konvolüsyon (D+3)\n\nİSTEĞE BAĞLI EK (to
+ plam ≈474 dk):\n[ ] CMPE371 (90 dk): CTFS — periyodik sinyal\, Fourier
+  serisi katsayıları\, simetri\, özellikler. ▸ 5 katsayı hesabı + 3 
+ yorum sorusu\n[ ] CMPE421 (70 dk): Game playing — minimax\, alfa-beta bu
+ dama. ▸ 5 oyun ağacı (budama sırası)\n[ ] BIO110 (32 dk): Tekrar (ka
+ palı kitap aktif hatırlama\, konu başına ~8 dk): Hücre turu II (D+7)\
+ ; Membrane Structure and Function (D+7)\; An Introduction to Metabolism (D
+ +7)\; Cellular Respiration (D+7)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kita
+ p aktif hatırlama\, konu başına ~8 dk): Introduction to Signals and Sys
+ tems (D+7)\n\nTamamlanma kriteri: min görevler işaretli + her blok sonun
+ da soru/yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne Y
+ IĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 → CMPE453 Midter
+ m (4 gün) · USART)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-09@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:CMPE453 · SPI ve I2C · P1 · Min 3\,4sa
+DESCRIPTION:Ana odak: CMPE453 → CMPE453 Midterm (3 gün) · SPI ve I2C\nF
+ az: Faz 2 — CMPE453 Midterm\n\nMİNİMUM PLAN (≈206 dk):\n[ ] CMPE453 
+ (80 dk): SPI ve I2C — master/slave\, SPCR/SPSR\, saat modları\; I2C sta
+ rt/stop/ACK\, adresleme. ▸ Zaman diyagramı çiz + 6 soru\n[ ] CMPE327 (
+ 70 dk): Myhill–Nerode — denklik sınıfları\, minimal DFA ile ilişki
+ \, düzenlilik kanıtı. ▸ 4 problem + 2 kısa ispat\n[ ] CMPE327 (16 dk
+ ): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): DFA stat
+ e minimization (D+1)\; Closure properties (D+3)\n[ ] CMPE421 (8 dk): Tekra
+ r (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Game playing (D+
+ 1)\n[ ] CMPE453 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu ba
+ şına ~8 dk): USART (D+1)\; AVR I/O portları (D+3)\n[ ] CMPE371 (16 dk):
+  Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): CTFS (D+1)
+ \; LTI III: özellikler (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈352 dk):\n[
+  ] CMPE421 (70 dk): CSP — değişken/alan/kısıt\, backtracking\, MRV/L
+ CV\, forward checking\, AC-3. ▸ 4 CSP elle çöz\n[ ] CMPE499 (60 dk): R
+ apor: taslak 2 — yapılan işler (teknik anlatım). ▸ Bölümü yaz\n[
+  ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~
+ 8 dk): Photosynthesis (D+7)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap akt
+ if hatırlama\, konu başına ~8 dk): Sinusoids (D+7)\n\nTamamlanma kriter
+ i: min görevler işaretli + her blok sonunda soru/yanlış analizi yapıl
+ dı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımla
+ rıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 → CMPE453 Midter
+ m (3 gün) · SPI ve I2C)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-10@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:CMPE453 · ADC · P1 · Min 3\,3sa
+DESCRIPTION:Ana odak: CMPE453 → CMPE453 Midterm (2 gün) · ADC\nFaz: Faz
+  2 — CMPE453 Midterm\n\nMİNİMUM PLAN (≈196 dk):\n[ ] CMPE453 (70 dk)
+ : ADC — ADMUX\, ADCSRA\, Vref\, prescaler\, 10-bit sonuç formülü. ▸
+  6 dönüşüm hesabı + 3 kod okuma\n[ ] CMPE327 (70 dk): Derivatives + r
+ egex denkliği — Brzozowski türevleri\, regex denkliği. ▸ 6 türev h
+ esabı + 3 denklik\n[ ] CMPE327 (16 dk): Tekrar (kapalı kitap aktif hatı
+ rlama\, konu başına ~8 dk): Myhill–Nerode (D+1)\; Regular expressions 
+ (D+3)\n[ ] CMPE421 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu 
+ başına ~8 dk): CSP (D+1)\; Informed search (D+3)\n[ ] CMPE453 (16 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): SPI ve I2C (
+ D+1)\; Digital input (D+3)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap akti
+ f hatırlama\, konu başına ~8 dk): Differential and difference equations
+  (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈387 dk):\n[ ] CMPE421 (70 dk): Pla
+ nning — STRIPS/PDDL\, ileri/geri planlama. ▸ 4 plan problemi\n[ ] CMPE
+ 499 (60 dk): Rapor: taslak 3 — teknik detay\, kod/akış\, sonuçlar. 
+ ▸ Bölümü yaz\n[ ] CMPE499 (45 dk): Rapor: görseller/tablolar — şe
+ kil\, ekran görüntüsü\, tablo numaralandırma. ▸ Tüm görselleri ye
+ rleştir\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, kon
+ u başına ~8 dk): Intro to AI + intelligent agents (D+7)\n[ ] CMPE371 (8 
+ dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Specia
+ l signals (D+7)\n\nTamamlanma kriteri: min görevler işaretli + her blok 
+ sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev: ertesi g
+ üne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 → CMPE453 Midter
+ m (2 gün) · ADC)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-11@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:CMPE453 · Vize provası (register/kod) · P1 · Min 3\,1sa
+DESCRIPTION:Ana odak: CMPE453 → CMPE453 Midterm (1 gün) · Vize provası
+  (register/kod) + Prova yanlış analizi\nFaz: Faz 2 — CMPE453 Midterm\n
+ \nMİNİMUM PLAN (≈186 dk):\n[ ] CMPE453 (90 dk): Vize provası (registe
+ r/kod) — M1–M7 karma. ▸ 15 soru / 90 dk\, süreli (kağıt)\n[ ] CMP
+ E453 (40 dk): Prova yanlış analizi — sebep etiketle. ▸ yanlış konu
+ lardan 6 yeni soru\n[ ] CMPE327 (16 dk): Tekrar (kapalı kitap aktif hatı
+ rlama\, konu başına ~8 dk): Derivatives + regex denkliği (D+1)\; DFA st
+ ate minimization (D+3)\n[ ] CMPE421 (16 dk): Tekrar (kapalı kitap aktif h
+ atırlama\, konu başına ~8 dk): Planning (D+1)\; Game playing (D+3)\n[ ]
+  CMPE453 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~
+ 8 dk): ADC (D+1)\; USART (D+3)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap 
+ aktif hatırlama\, konu başına ~8 dk): CTFS (D+3)\n\nİSTEĞE BAĞLI EK 
+ (toplam ≈368 dk):\n[ ] CMPE327 (70 dk): Context-free grammars — CFG ta
+ nımı\, türetme\, ayrıştırma ağacı. ▸ 8 CFG tasarla\n[ ] CMPE421 
+ (80 dk): Knowledge representation — önerme mantığı\, çıkarım\, FO
+ L temelleri. ▸ 10 mantık sorusu\n[ ] CMPE327 (8 dk): Tekrar (kapalı ki
+ tap aktif hatırlama\, konu başına ~8 dk): NFA ve ε-NFA (D+7)\n[ ] CMPE
+ 421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk):
+  Problem solving + uninformed search (D+7)\n[ ] CMPE453 (8 dk): Tekrar (ka
+ palı kitap aktif hatırlama\, konu başına ~8 dk): Course overview + ATm
+ ega328P architecture (D+7)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap akti
+ f hatırlama\, konu başına ~8 dk): System properties (D+7)\n\nTamamlanma
+  kriteri: min görevler işaretli + her blok sonunda soru/yanlış analizi
+  yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md 
+ adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 → CMPE453 Midter
+ m (1 gün) · Vize provası ()
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-12@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:CMPE453 · Vize son tekrar (gündüz) · P1 · Min 1\,7sa
+DESCRIPTION:Ana odak: CMPE453 → CMPE453 Midterm (0 gün) · Vize son tekr
+ ar (gündüz)\nFaz: Faz 2 — CMPE453 Midterm\n\nMİNİMUM PLAN (≈100 dk
+ ):\n[ ] CMPE453 (60 dk): Vize son tekrar (gündüz) — register tablolar
+ ı\, formüller (UBRR\, ADC)\, bit kalıpları. ▸ Tek sayfa özeti belle
+ ğten yaz\; 12 hızlı soru\n[ ] CMPE327 (16 dk): Tekrar (kapalı kitap ak
+ tif hatırlama\, konu başına ~8 dk): Context-free grammars (D+1)\; Myhil
+ l–Nerode (D+3)\n[ ] CMPE421 (16 dk): Tekrar (kapalı kitap aktif hatırl
+ ama\, konu başına ~8 dk): Knowledge representation (D+1)\; CSP (D+3)\n[ 
+ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~
+ 8 dk): SPI ve I2C (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈272 dk):\n[ ] CMP
+ E327 (60 dk): Ambiguity + DFA eşdeğerlik kontrolü — belirsiz gramer\,
+  belirsizlik giderme\; DFA denklik. ▸ 4 gramer + 3 denklik kontrolü\n[ 
+ ] CMPE421 (80 dk): Theorem proving — CNF dönüşümü\, çözümleme (r
+ esolution)\, birleştirme. ▸ 5 resolution ispatı\n[ ] CMPE327 (8 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): DFA ≡ NFA 
+ (altküme yapısı) (D+7)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif
+  hatırlama\, konu başına ~8 dk): Programming AVR (C + bit işlemleri) (
+ D+7)\n[ ] CMPE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu b
+ aşına ~8 dk): LTI I: ayrık konvolüsyon (D+7)\; LTI II: sürekli konvol
+ üsyon (D+7)\n\nTamamlanma kriteri: min görevler işaretli + her blok son
+ unda soru/yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne
+  YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 → CMPE453 Midter
+ m (0 gün) · Vize son tekra)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-13@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:CMPE327 · Vize provası · P1 · Min 4\,5sa
+DESCRIPTION:Ana odak: CMPE327 → CMPE327 Quiz (15 Kasım) (2 gün) · Vize
+  provası\nFaz: Faz 3 — CMPE327 Quiz (15 Kas) ve CMPE421 Midterm (20 Kas
+ )\n\nMİNİMUM PLAN (≈270 dk):\n[ ] CMPE327 (90 dk): Vize provası — A
+ 1–A12 karma. ▸ 8 soru / 90 dk\, süreli\n[ ] CMPE499 (60 dk): Rapor: t
+ aslak 4 + sonuç — kazanımlar\, sonuç\, tamamlanmamış kısımlar. 
+ ▸ Taslağı bitir\n[ ] BIO110 (80 dk): The Cell Cycle and Cellular Repro
+ duction — hücre döngüsü\, mitoz evreleri\, sitokinez\, kontrol nokta
+ ları\, siklin-CDK\, kanser. ▸ Mitoz evreleri çizimi + 15 soru\n[ ] CMP
+ E327 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk
+ ): Ambiguity + DFA eşdeğerlik kontrolü (D+1)\; Derivatives + regex denk
+ liği (D+3)\n[ ] CMPE421 (16 dk): Tekrar (kapalı kitap aktif hatırlama\,
+  konu başına ~8 dk): Theorem proving (D+1)\; Planning (D+3)\n[ ] CMPE453
+  (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): AD
+ C (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈394 dk):\n[ ] CMPE327 (60 dk): Ka
+ rma tekrar (DFA-NFA-regex) — 15 Kas quiz'i için (kapsamı ayrıca doğr
+ ula). ▸ 20 kısa soru\, süreli\n[ ] CMPE327 (16 dk): Tekrar (kapalı ki
+ tap aktif hatırlama\, konu başına ~8 dk): Closure properties (D+7)\; Ce
+ ntral concepts + mathematical preliminaries (D+14)\n[ ] CMPE453 (8 dk): Te
+ krar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): AVR I/O portl
+ arı (D+7)\n[ ] CMPE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, 
+ konu başına ~8 dk): LTI III: özellikler (D+7)\; Önkoşul: karmaşık s
+ ayılar ve Euler (D+14)\n[ ] BIO110 (24 dk): Tekrar (kapalı kitap aktif h
+ atırlama\, konu başına ~8 dk): The Chemical Context of Life (D+14)\; Wa
+ ter and Life (D+14)\; Carbon and Molecular Diversity (D+14)\n\nTamamlanma 
+ kriteri: min görevler işaretli + her blok sonunda soru/yanlış analizi 
+ yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md a
+ dımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 → CMPE327 Quiz (
+ 15 Kasım) (2 gün) · Vize p)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-14@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:BIO110 · Mendel and the Gene Idea · P2 · Min 2\,6sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 2 (26/27 Kas) (12 gün) · 
+ Mendel and the Gene Idea\nFaz: Faz 3 — CMPE327 Quiz (15 Kas) ve CMPE421 
+ Midterm (20 Kas)\n\nMİNİMUM PLAN (≈154 dk):\n[ ] CMPE327 (40 dk): Prov
+ a yanlış analizi — sebep etiketle. ▸ yanlış konulardan 6 yeni soru
+ \n[ ] BIO110 (90 dk): Mendel and the Gene Idea — Mendel yasaları\, Punn
+ ett\, test cross\, dihibrit\, olasılık kuralları\, baskınlık türleri
+ . ▸ 10 genetik problem (kolaydan zora) + 10 soru\n[ ] BIO110 (8 dk): Tek
+ rar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): The Cell Cycle
+  and Cellular Reproduction (D+1)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kita
+ p aktif hatırlama\, konu başına ~8 dk): Context-free grammars (D+3)\n[ 
+ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~
+ 8 dk): Knowledge representation (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈381
+  dk):\n[ ] CMPE421 (80 dk): Uncertainty — olasılık\, Bayes kuralı\, B
+ ayes ağları temeli. ▸ 8 olasılık problemi\n[ ] CMPE327 (75 dk): Slay
+ t soruları 1 (Slide01–03: DFA\, NFA) — yüklenen Slide01–03 içinde
+ ki örnek/alıştırma sayfalarını önce kendin çöz. ▸ her slayttan 
+ 5 soru\; çözümü kapalı kitap yaz\n[ ] CMPE327 (16 dk): Tekrar (kapal
+ ı kitap aktif hatırlama\, konu başına ~8 dk): Regular expressions (D+7
+ )\; DFA (D+14)\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama
+ \, konu başına ~8 dk): Informed search (D+7)\n[ ] CMPE453 (8 dk): Tekrar
+  (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Digital input (D+
+ 7)\n[ ] CMPE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu ba
+ şına ~8 dk): Differential and difference equations (D+7)\; Önkoşul: tr
+ igonometri\, üstel\, türev/integral (D+14)\n[ ] BIO110 (24 dk): Tekrar (
+ kapalı kitap aktif hatırlama\, konu başına ~8 dk): Büyük moleküller
+  I: karbonhidrat + lipid (D+14)\; Büyük moleküller II: protein + nükle
+ ik asit (D+14)\; Hücre turu I (D+14)\n\nTamamlanma kriteri: min görevler
+  işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadı
+ ğın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden 
+ planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 2
+  (26/27 Kas) (12 gün) · M)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-15@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:CMPE371 · CTFT · P2 · Min 3\,7sa
+DESCRIPTION:Ana odak: CMPE371 → CMPE371 Midterm (30 Kasım) (15 gün) · 
+ CTFT\nFaz: Faz 3 — CMPE327 Quiz (15 Kas) ve CMPE421 Midterm (20 Kas)\n\n
+ MİNİMUM PLAN (≈222 dk):\n[ ] CMPE371 (100 dk): CTFT — tanım\, stand
+ art çiftler\, özellikler (kaydırma\, ölçekleme\, konvolüsyon)\, frek
+ ans yanıtı. ▸ 6 dönüşüm + 4 özellik sorusu\n[ ] BIO110 (90 dk): C
+ hromosomal Basis of Inheritance — bağlantılı genler\, rekombinasyon s
+ ıklığı\, eşeye bağlı kalıtım\, nondisjunction. ▸ 8 problem + 10
+  soru\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu ba
+ şına ~8 dk): Mendel and the Gene Idea (D+1)\n[ ] CMPE421 (16 dk): Tekrar
+  (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Uncertainty (D+1)
+ \; Theorem proving (D+3)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif 
+ hatırlama\, konu başına ~8 dk): Ambiguity + DFA eşdeğerlik kontrolü 
+ (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈419 dk):\n[ ] CMPE499 (45 dk): Rapo
+ r: okuma 1 — yazım\, tutarlılık\, teknik doğruluk. ▸ Baştan sona 
+ oku\, düzelt\n[ ] CMPE453 (80 dk): Interrupts — vektör tablosu\, ISR\,
+  SREG/I-bit\, harici kesmeler. ▸ 5 ISR kod okuma + 3 yazma (kağıt)\n[ 
+ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~
+ 8 dk): DFA state minimization (D+7)\n[ ] CMPE421 (8 dk): Tekrar (kapalı k
+ itap aktif hatırlama\, konu başına ~8 dk): Game playing (D+7)\n[ ] CMPE
+ 453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk):
+  USART (D+7)\n[ ] CMPE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): CTFS (D+7)\; Introduction to Signals and Systems (
+ D+14)\n[ ] BIO110 (32 dk): Tekrar (kapalı kitap aktif hatırlama\, konu b
+ aşına ~8 dk): Hücre turu II (D+14)\; Membrane Structure and Function (D
+ +14)\; An Introduction to Metabolism (D+14)\; Cellular Respiration (D+14)\
+ n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru/yan
+ lış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REP
+ LAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 → CMPE371 Midter
+ m (30 Kasım) (15 gün) · CT)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-16@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:BIO110 · Molecular Basis of Inheritance · P2 · Min 3\,5sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 2 (26/27 Kas) (10 gün) · 
+ Molecular Basis of Inheritance\nFaz: Faz 3 — CMPE327 Quiz (15 Kas) ve CM
+ PE421 Midterm (20 Kas)\n\nMİNİMUM PLAN (≈212 dk):\n[ ] CMPE421 (90 dk)
+ : Vize provası — I1–I9 karma (kapsam doğrulanana kadar). ▸ 8 soru 
+ / 90 dk\, süreli\n[ ] BIO110 (90 dk): Molecular Basis of Inheritance — 
+ DNA yapısı\, replikasyon (enzimler)\, onarım\, telomer. ▸ Replikasyon
+  çatalı çizimi + 15 soru\n[ ] BIO110 (16 dk): Tekrar (kapalı kitap akt
+ if hatırlama\, konu başına ~8 dk): Chromosomal Basis of Inheritance (D+
+ 1)\; The Cell Cycle and Cellular Reproduction (D+3)\n[ ] CMPE453 (8 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Interrupts (
+ D+1)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu ba
+ şına ~8 dk): CTFT (D+1)\n\nİSTEĞE BAĞLI EK (toplam ≈357 dk):\n[ ] C
+ MPE371 (60 dk): CTFS/CTFT problem seti — karışık. ▸ 10 karma proble
+ m\, çözüme bakmadan\n[ ] CMPE499 (45 dk): Rapor: format + kaynakça —
+  yazı tipi\, kenar\, başlık stili\, içindekiler\, kaynakça. ▸ Yöne
+ rge kontrol listesi\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatı
+ rlama\, konu başına ~8 dk): Myhill–Nerode (D+7)\n[ ] CMPE421 (8 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): CSP (D+7)\n[
+  ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına 
+ ~8 dk): SPI ve I2C (D+7)\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif h
+ atırlama\, konu başına ~8 dk): Photosynthesis (D+14)\n[ ] CMPE371 (8 dk
+ ): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Sinusoid
+ s (D+14)\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda
+  soru/yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne YI
+ ĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 2
+  (26/27 Kas) (10 gün) · M)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-17@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:BIO110 · Gene Expression: Gene to Protein · P2 · Min 3\,1sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 2 (26/27 Kas) (9 gün) · G
+ ene Expression: Gene to Protein\nFaz: Faz 3 — CMPE327 Quiz (15 Kas) ve C
+ MPE421 Midterm (20 Kas)\n\nMİNİMUM PLAN (≈184 dk):\n[ ] CMPE421 (60 dk
+ ): Prova yanlış analizi — sebep etiketle. ▸ yanlış konulardan 6 ye
+ ni soru\n[ ] BIO110 (100 dk): Gene Expression: Gene to Protein — transkr
+ ipsiyon\, RNA işleme\, translasyon\, kod tablosu\, mutasyon. ▸ mRNA→p
+ rotein 8 alıştırma + süreç şeması + 15 soru\n[ ] BIO110 (16 dk): Te
+ krar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Molecular Bas
+ is of Inheritance (D+1)\; Mendel and the Gene Idea (D+3)\n[ ] CMPE421 (8 d
+ k): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Uncerta
+ inty (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈374 dk):\n[ ] CMPE453 (90 dk):
+  Timers/counters — Timer0/1 modları\, prescaler\, taşma/karşılaştı
+ rma\, süre hesabı. ▸ 6 zaman hesabı + 3 kod\n[ ] CMPE371 (60 dk): Yak
+ alama: CMPE371 — ext'te yapılmayan S4–S6 bloklarını bitir (hepsi ya
+ pıldıysa SP7'ye geç). ▸ eksik blok başına 3 problem\n[ ] CMPE327 (8
+  dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Deriv
+ atives + regex denkliği (D+7)\n[ ] CMPE421 (16 dk): Tekrar (kapalı kitap
+  aktif hatırlama\, konu başına ~8 dk): Planning (D+7)\; Intro to AI + i
+ ntelligent agents (D+14)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif 
+ hatırlama\, konu başına ~8 dk): ADC (D+7)\n[ ] CMPE371 (8 dk): Tekrar (
+ kapalı kitap aktif hatırlama\, konu başına ~8 dk): Special signals (D+
+ 14)\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru
+ /yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\;
+  REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 2
+  (26/27 Kas) (9 gün) · Ge)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-18@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:BIO110 · Regulation of Gene Expression · P2 · Min 3\,0sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 2 (26/27 Kas) (8 gün) · R
+ egulation of Gene Expression\nFaz: Faz 3 — CMPE327 Quiz (15 Kas) ve CMPE
+ 421 Midterm (20 Kas)\n\nMİNİMUM PLAN (≈180 dk):\n[ ] CMPE421 (60 dk): 
+ Vize son tekrar — algoritma karşılaştırma tabloları. ▸ tüm arama
+ ları 1 kez elle yürüt\n[ ] BIO110 (80 dk): Regulation of Gene Expressio
+ n — operonlar\, epigenetik\, ökaryot düzenleme\, transkripsiyon faktö
+ rleri. ▸ lac/trp operon 6 senaryo + 12 soru\n[ ] BIO110 (16 dk): Tekrar 
+ (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Gene Expression: G
+ ene to Protein (D+1)\; Chromosomal Basis of Inheritance (D+3)\n[ ] CMPE453
+  (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): T
+ imers/counters (D+1)\; Interrupts (D+3)\n[ ] CMPE371 (8 dk): Tekrar (kapal
+ ı kitap aktif hatırlama\, konu başına ~8 dk): CTFT (D+3)\n\nİSTEĞE B
+ AĞLI EK (toplam ≈348 dk):\n[ ] CMPE327 (75 dk): Slayt soruları 2 (Slid
+ e04–05: DFA-NFA denkliği\, regex\, kapanış) — Slide04–05 örnekle
+ ri: altküme yapısı\, regex→NFA\, kapanış özellikleri. ▸ her slay
+ ttan 5 soru\n[ ] CMPE421 (45 dk): Assignment-1: yönergeyi oku\, gereksini
+ m listesi çıkar — LMS'teki Assignment-1 PDF'ini (mod/resource id=16460
+ ) oku\; istenenleri\, dosya adlarını\, teslim biçimini ve puanlamayı t
+ abloya yaz\; bu ortamda PDF okunamadı. ▸ gereksinim listesini 1 sayfada
+  yaz\; Q&A bağlantısının zorunlu teslim olup olmadığını doğrula\n
+ [ ] CMPE327 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başın
+ a ~8 dk): Context-free grammars (D+7)\; NFA ve ε-NFA (D+14)\n[ ] CMPE421 
+ (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Kn
+ owledge representation (D+7)\; Problem solving + uninformed search (D+14)\
+ n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başın
+ a ~8 dk): Course overview + ATmega328P architecture (D+14)\n[ ] CMPE371 (8
+  dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Syste
+ m properties (D+14)\n\nTamamlanma kriteri: min görevler işaretli + her b
+ lok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev: ertes
+ i güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 2
+  (26/27 Kas) (8 gün) · Re)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-19@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:CMPE499 · Rapor: son okuma + PDF · P2 · Min 3\,7sa
+DESCRIPTION:Ana odak: CMPE499 → CMPE499 Summer Training Report (STR) (3 g
+ ün) · Rapor: son okuma + PDF + Rapor: iç kontrol\nFaz: Faz 3 — CMPE32
+ 7 Quiz (15 Kas) ve CMPE421 Midterm (20 Kas)\n\nMİNİMUM PLAN (≈221 dk):
+ \n[ ] CMPE499 (45 dk): Rapor: son okuma + PDF — son okuma\, PDF çıktı
+ sı. ▸ PDF'i aç\, sayfa/şekil kontrolü\n[ ] CMPE499 (45 dk): Rapor: i
+ ç kontrol — yönerge listesi ile son karşılaştırma. ▸ Eksik varsa
+  listele\n[ ] CMPE421 (45 dk): Vize son kısa tekrar — özet. ▸ 10 hı
+ zlı soru\n[ ] BIO110 (70 dk): DNA Tools and Biotechnology — PCR\, jel e
+ lektroforezi\, klonlama\, CRISPR\, DNA dizileme. ▸ PCR/jel yorumlama 5 s
+ oru + 12 soru\n[ ] BIO110 (16 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): Regulation of Gene Expression (D+1)\; Molecular Ba
+ sis of Inheritance (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈314 dk):\n[ ] BI
+ O110 (45 dk): Konu testi 3 (B10–B13) — karma test. ▸ 35 soru + yanl
+ ış analizi\n[ ] CMPE327 (16 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): Ambiguity + DFA eşdeğerlik kontrolü (D+7)\; DFA
+  ≡ NFA (altküme yapısı) (D+14)\n[ ] CMPE421 (8 dk): Tekrar (kapalı k
+ itap aktif hatırlama\, konu başına ~8 dk): Theorem proving (D+7)\n[ ] C
+ MPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 d
+ k): Programming AVR (C + bit işlemleri) (D+14)\n[ ] CMPE371 (16 dk): Tekr
+ ar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): LTI I: ayrık k
+ onvolüsyon (D+14)\; LTI II: sürekli konvolüsyon (D+14)\n\nTamamlanma kr
+ iteri: min görevler işaretli + her blok sonunda soru/yanlış analizi ya
+ pıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md ad
+ ımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE499 (Ana odak: CMPE499 → CMPE499 Summer
+  Training Report (STR) (3 )
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-20@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:CMPE371 · Vize özeti · P2 · Min 3\,0sa
+DESCRIPTION:Ana odak: CMPE371 → CMPE371 Midterm (30 Kasım) (10 gün) · 
+ Vize özeti\nFaz: Faz 3 — CMPE327 Quiz (15 Kas) ve CMPE421 Midterm (20 K
+ as)\n\nMİNİMUM PLAN (≈179 dk):\n[ ] CMPE499 (20 dk): Rapor TESLİM —
+  STR yükle (son tarih 22 Kas\; 2 gün erken). ▸ Yükleme onayını kayd
+ et\n[ ] CMPE371 (90 dk): Vize özeti — S1–S7 formül/dönüşüm tablo
+ su tek sayfada. ▸ Tek sayfalık özet yaz\n[ ] CMPE499 (45 dk): Video: a
+ kış + senaryo iskeleti — video süresi/format gereksinimi\, bölüm ak
+ ışı. ▸ Akış ve süre planı\n[ ] BIO110 (16 dk): Tekrar (kapalı ki
+ tap aktif hatırlama\, konu başına ~8 dk): DNA Tools and Biotechnology (
+ D+1)\; Gene Expression: Gene to Protein (D+3)\n[ ] CMPE453 (8 dk): Tekrar 
+ (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Timers/counters (D
+ +3)\n\nİSTEĞE BAĞLI EK (toplam ≈211 dk):\n[ ] BIO110 (8 dk): Tekrar (
+ kapalı kitap aktif hatırlama\, konu başına ~8 dk): The Cell Cycle and 
+ Cellular Reproduction (D+7)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap akt
+ if hatırlama\, konu başına ~8 dk): Closure properties (D+14)\n[ ] CMPE4
+ 53 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): 
+ AVR I/O portları (D+14)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif 
+ hatırlama\, konu başına ~8 dk): LTI III: özellikler (D+14)\n\nTamamlan
+ ma kriteri: min görevler işaretli + her blok sonunda soru/yanlış anali
+ zi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.m
+ d adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 → CMPE371 Midter
+ m (30 Kasım) (10 gün) · Vi)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-21@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CMPE421 · Assignment-1: tasarım ve ilk sürüm (kod) · P2 · Min
+  4\,4sa
+DESCRIPTION:Ana odak: CMPE421 → CMPE421 Assignment-1 (son teslim 23:59) (
+ 5 gün) · Assignment-1: tasarım ve ilk sürüm (kod)\nFaz: Faz 4 — Ass
+ ignment-1 (26 Kas)\, CMPE327 Midterm (29 Kas)\, CMPE371 Midterm (30 Kas)\n
+ \nMİNİMUM PLAN (≈263 dk):\n[ ] CMPE421 (120 dk): Assignment-1: tasarı
+ m ve ilk sürüm (kod) — ilgili ders slaytlarını aç\; algoritmayı k
+ âğıtta tasarla\; ilk çalışan sürümü KENDİN yaz (syllabus: LLM/AI
+  araçlarıyla hazırlama intihaldir). ▸ ilk çalışan sürüm + 3 elle
+  test\n[ ] CMPE499 (60 dk): Video: senaryo + materyal — konuşma metni\,
+  ekran/slayt materyalleri. ▸ Metni bitir\, materyalleri topla\n[ ] CMPE3
+ 27 (75 dk): Slayt soruları 3 (Slide06–07: Arden\, minimizasyon) — Ard
+ en teoremi ile FA→RE ve DFA minimizasyon örnekleri. ▸ 6 Arden + 4 min
+ imizasyon problemi\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırl
+ ama\, konu başına ~8 dk): Regulation of Gene Expression (D+3)\n\nİSTEĞ
+ E BAĞLI EK (toplam ≈311 dk):\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap 
+ aktif hatırlama\, konu başına ~8 dk): Mendel and the Gene Idea (D+7)\n[
+  ] CMPE421 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına
+  ~8 dk): Uncertainty (D+7)\; Informed search (D+14)\n[ ] CMPE327 (8 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Regular expr
+ essions (D+14)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama
+ \, konu başına ~8 dk): Digital input (D+14)\n[ ] CMPE371 (8 dk): Tekrar 
+ (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Differential and d
+ ifference equations (D+14)\n\nTamamlanma kriteri: min görevler işaretli 
+ + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev
+ : ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 → CMPE421 Assign
+ ment-1 (son teslim 23:59) )
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-22@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:CMPE421 · Assignment-1: kodu bitir ve test et · P2 · Min 4\,1sa
+DESCRIPTION:Ana odak: CMPE421 → CMPE421 Assignment-1 (son teslim 23:59) (
+ 4 gün) · Assignment-1: kodu bitir ve test et\nFaz: Faz 4 — Assignment-
+ 1 (26 Kas)\, CMPE327 Midterm (29 Kas)\, CMPE371 Midterm (30 Kas)\n\nMİNİ
+ MUM PLAN (≈248 dk):\n[ ] CMPE421 (120 dk): Assignment-1: kodu bitir ve t
+ est et — kenar durumlar\, hata mesajları\, dosya adları şartnameye uy
+ sun. ▸ tüm gereksinimleri tek tek işaretle\n[ ] BIO110 (60 dk): Konu t
+ esti 4 (B14–B16) — karma test. ▸ 35 soru + yanlış analizi\n[ ] CMP
+ E499 (60 dk): Video: kayıt — ses kontrolü\, kayıt. ▸ En az 2 tam ka
+ yıt\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu ba
+ şına ~8 dk): DNA Tools and Biotechnology (D+3)\n\nİSTEĞE BAĞLI EK (to
+ plam ≈424 dk):\n[ ] CMPE371 (120 dk): Vize provası — S1–S7 karma s
+ ınav. ▸ 10 soru / 120 dk\, süreli\n[ ] BIO110 (8 dk): Tekrar (kapalı 
+ kitap aktif hatırlama\, konu başına ~8 dk): Chromosomal Basis of Inheri
+ tance (D+7)\n[ ] CMPE453 (16 dk): Tekrar (kapalı kitap aktif hatırlama\,
+  konu başına ~8 dk): Interrupts (D+7)\; USART (D+14)\n[ ] CMPE371 (16 dk
+ ): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): CTFT (D+
+ 7)\; CTFS (D+14)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatırla
+ ma\, konu başına ~8 dk): DFA state minimization (D+14)\n[ ] CMPE421 (8 d
+ k): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Game pl
+ aying (D+14)\n\nTamamlanma kriteri: min görevler işaretli + her blok son
+ unda soru/yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne
+  YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 → CMPE421 Assign
+ ment-1 (son teslim 23:59) )
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-23@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:CMPE421 · Assignment-1: rapor taslağı · P1 · Min 4\,0sa
+DESCRIPTION:Ana odak: CMPE421 → CMPE421 Assignment-1 (son teslim 23:59) (
+ 3 gün) · Assignment-1: rapor taslağı\nFaz: Faz 4 — Assignment-1 (26 
+ Kas)\, CMPE327 Midterm (29 Kas)\, CMPE371 Midterm (30 Kas)\n\nMİNİMUM PL
+ AN (≈240 dk):\n[ ] CMPE421 (90 dk): Assignment-1: rapor taslağı — ş
+ artnamedeki rapor bölümleri\, şekiller\, sonuçlar\, kaynaklar. ▸ rap
+ or taslağını tamamla\n[ ] CMPE499 (90 dk): Video: düzenleme — kes/bi
+ rleştir\, altyazı/başlık. ▸ İlk düzenlenmiş sürüm\n[ ] CMPE327 
+ (60 dk): Vize karma tekrar 2 (29 Kas\, W1–W8) — A1–A12. ▸ 15 soru\
+ n\nİSTEĞE BAĞLI EK (toplam ≈362 dk):\n[ ] CMPE371 (90 dk): Yanlış a
+ nalizi + problem seti — prova yanlışları. ▸ yanlış konulardan 10 
+ problem\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu 
+ başına ~8 dk): Molecular Basis of Inheritance (D+7)\n[ ] CMPE327 (8 dk):
+  Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Myhill–N
+ erode (D+14)\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\,
+  konu başına ~8 dk): CSP (D+14)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kit
+ ap aktif hatırlama\, konu başına ~8 dk): SPI ve I2C (D+14)\n\nTamamlanm
+ a kriteri: min görevler işaretli + her blok sonunda soru/yanlış analiz
+ i yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md
+  adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 → CMPE421 Assign
+ ment-1 (son teslim 23:59) )
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-24@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:BIO110 · Karma deneme 2 (B10–B16) · P2 · Min 3\,2sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 2 (26/27 Kas) (2 gün) · K
+ arma deneme 2 (B10–B16)\nFaz: Faz 4 — Assignment-1 (26 Kas)\, CMPE327 
+ Midterm (29 Kas)\, CMPE371 Midterm (30 Kas)\n\nMİNİMUM PLAN (≈190 dk):
+ \n[ ] CMPE421 (60 dk): Assignment-1: son kontrol ve paketleme — kod + ra
+ por tutarlılığı\, dosya adlandırma\, biçim\; yükleme dosyalarını 
+ hazırla. ▸ kontrol listesi: kod\, rapor\, adlandırma\, biçim\n[ ] BIO
+ 110 (90 dk): Karma deneme 2 (B10–B16) — tam kapsam deneme. ▸ 60 soru
+ \, sınav hızında\n[ ] CMPE499 (40 dk): Video: kalite kontrolü — ses\
+ , süre\, çözünürlük\, dosya boyutu. ▸ Hataları düzelt\n\nİSTEĞ
+ E BAĞLI EK (toplam ≈360 dk):\n[ ] BIO110 (40 dk): Deneme 2 yanlış ana
+ lizi — sebep etiketle. ▸ Zayıf konuları yeniden çalış\n[ ] CMPE37
+ 1 (90 dk): Problem seti 2 — karma. ▸ 10 karma problem\n[ ] BIO110 (8 d
+ k): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Gene Ex
+ pression: Gene to Protein (D+7)\n[ ] CMPE453 (16 dk): Tekrar (kapalı kita
+ p aktif hatırlama\, konu başına ~8 dk): Timers/counters (D+7)\; ADC (D+
+ 14)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu ba
+ şına ~8 dk): Derivatives + regex denkliği (D+14)\n[ ] CMPE421 (8 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Planning (D+
+ 14)\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru
+ /yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\;
+  REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 2
+  (26/27 Kas) (2 gün) · Ka)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-25@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BIO110 · Midterm 2 son tekrar · P2 · Min 1\,8sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 2 (26/27 Kas) (1 gün) · M
+ idterm 2 son tekrar\nFaz: Faz 4 — Assignment-1 (26 Kas)\, CMPE327 Midter
+ m (29 Kas)\, CMPE371 Midterm (30 Kas)\n\nMİNİMUM PLAN (≈110 dk):\n[ ] 
+ CMPE421 (30 dk): Assignment-1: LMS'e yükle (son 26 Kas 23:59) — Code ve
+  Report ayrı yüklenir\; yükleme onay ekranını/e-postasını kaydet\; 
+ Q&A bölümünü kontrol et. ▸ iki bileşenin de 'Submitted' durumunu LM
+ S'te gör\n[ ] BIO110 (60 dk): Midterm 2 son tekrar — şemalar + genetik
+  problem tipleri. ▸ 25 karışık soru + flashcard\n[ ] CMPE499 (20 dk):
+  Video TESLİM — Video yükle (son tarih 29 Kas\; 3 gün erken). ▸ Yü
+ kleme onayını kaydet\n\nİSTEĞE BAĞLI EK (toplam ≈209 dk):\n[ ] CMPE
+ 327 (75 dk): W7–W8 problem seti (Myhill–Nerode\, türev\, CFG\, belirs
+ izlik) — bu konuların slaytları henüz yüklenmedi: LMS'ten indir\; ki
+ tap Linz ilgili bölümleri. ▸ 8 karma problem\; yanlışları deftere y
+ az\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu baş
+ ına ~8 dk): Regulation of Gene Expression (D+7)\n[ ] CMPE327 (8 dk): Tekr
+ ar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Context-free gr
+ ammars (D+14)\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): Knowledge representation (D+14)\n\nTamamlanma krit
+ eri: min görevler işaretli + her blok sonunda soru/yanlış analizi yap
+ ıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adı
+ mlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 2
+  (26/27 Kas) (1 gün) · Mi)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-26@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:BIO110 · Midterm 2 son gün · P2 · Min 0\,8sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Midterm 2 (26/27 Kas) (0 gün) · M
+ idterm 2 son gün\nFaz: Faz 4 — Assignment-1 (26 Kas)\, CMPE327 Midterm 
+ (29 Kas)\, CMPE371 Midterm (30 Kas)\n\nMİNİMUM PLAN (≈45 dk):\n[ ] BIO
+ 110 (45 dk): Midterm 2 son gün — yalnızca kısa not/şema. ▸ yeni ko
+ nu yok\n\nİSTEĞE BAĞLI EK (toplam ≈69 dk):\n[ ] BIO110 (8 dk): Tekrar
+  (kapalı kitap aktif hatırlama\, konu başına ~8 dk): DNA Tools and Bio
+ technology (D+7)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatırla
+ ma\, konu başına ~8 dk): Ambiguity + DFA eşdeğerlik kontrolü (D+14)\n
+ [ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına
+  ~8 dk): Theorem proving (D+14)\n\nTamamlanma kriteri: min görevler işar
+ etli + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın g
+ örev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Midterm 2
+  (26/27 Kas) (0 gün) · Mi)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-27@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:CMPE327 · Vize son tekrar · P1 · Min 2\,3sa
+DESCRIPTION:Ana odak: CMPE327 → CMPE327 Midterm (29 Kasım) (2 gün) · V
+ ize son tekrar\nFaz: Faz 4 — Assignment-1 (26 Kas)\, CMPE327 Midterm (29
+  Kas)\, CMPE371 Midterm (30 Kas)\n\nMİNİMUM PLAN (≈140 dk):\n[ ] CMPE3
+ 27 (60 dk): Vize son tekrar — algoritma adımları (altküme\, minimizas
+ yon\, regex dönüşümü). ▸ her algoritmayı 1 kez baştan sona uygula
+ \n[ ] CMPE499 (60 dk): Sunum (%30) formatını doğrula + hazırla — sun
+ um/video ayrı mı? tarih ve format. ▸ Gerekirse 10 dk'lık sunum iskele
+ ti\n[ ] BIO110 (20 dk): Proje: konu seçimi — hoca listesinden konu (Bra
+ in-Inspired AI\, Embodied AI\, Biorobotics\, Synthetic Biology\, Quantum B
+ iology\, Industrial Biotech\, Biomimetics…). ▸ Konuyu seç\, hocaya/du
+ yuruya göre doğrula\n\nİSTEĞE BAĞLI EK (toplam ≈148 dk):\n[ ] BIO11
+ 0 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): T
+ he Cell Cycle and Cellular Reproduction (D+14)\n\nTamamlanma kriteri: min 
+ görevler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nY
+ apamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla 
+ yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 → CMPE327 Midter
+ m (29 Kasım) (2 gün) · Viz)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-28@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CMPE453 · PWM (AVR) · P2 · Min 3\,2sa
+DESCRIPTION:Ana odak: CMPE453 · PWM (AVR)\nFaz: Faz 4 — Assignment-1 (26
+  Kas)\, CMPE327 Midterm (29 Kas)\, CMPE371 Midterm (30 Kas)\n\nMİNİMUM P
+ LAN (≈195 dk):\n[ ] CMPE371 (45 dk): Formül/dönüşüm tablosu son tek
+ rar — tek sayfa özet. ▸ kapalı kitap yeniden yaz\n[ ] CMPE453 (80 dk
+ ): PWM (AVR) — Fast/Phase-correct PWM\, OCRx\, duty hesabı. ▸ 6 duty/
+ frekans hesabı\n[ ] CMPE421 (70 dk): ML fundamentals — denetimli/deneti
+ msiz\, overfitting\, bias-variance\, değerlendirme. ▸ 10 kavram + 3 met
+ rik hesabı\n\nİSTEĞE BAĞLI EK (toplam ≈211 dk):\n[ ] BIO110 (8 dk): 
+ Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Mendel and 
+ the Gene Idea (D+14)\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hat
+ ırlama\, konu başına ~8 dk): Uncertainty (D+14)\n\nTamamlanma kriteri: 
+ min görevler işaretli + her blok sonunda soru/yanlış analizi yapıldı
+ .\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımları
+ yla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 · PWM (AVR))
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-29@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:BIO110 · Descent with Modification · P2 · Min 4\,5sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Proje sunumları (10–31 Ara) (11 
+ gün) · Descent with Modification + Proje: 15–20 slayt iskeleti\nFaz: F
+ az 4 — Assignment-1 (26 Kas)\, CMPE327 Midterm (29 Kas)\, CMPE371 Midter
+ m (30 Kas)\n\nMİNİMUM PLAN (≈271 dk):\n[ ] CMPE327 (45 dk): Vize gün
+ ü hafif tekrar — özet kartları\, yeni konu yok. ▸ 10 hızlı soru\n
+ [ ] CMPE371 (30 dk): Vize son gün hafif tekrar — formül/dönüşüm ö
+ zet sayfası. ▸ 10 hızlı soru\, yeni konu yok\n[ ] BIO110 (60 dk): Des
+ cent with Modification — doğal seçilim\, Darwin\, adaptasyon\, kanıtl
+ ar\, filogeni temelleri. ▸ Kavram kartları + 12 soru\n[ ] BIO110 (40 dk
+ ): Proje: 15–20 slayt iskeleti — slayt başlıkları\, kaynak listesi.
+  ▸ İskeleti yaz\, 5 ana kaynak bul\n[ ] CMPE421 (80 dk): Classification
+  and regression — kNN\, karar ağacı\, lineer/lojistik regresyon\, metr
+ ikler. ▸ 4 elle hesap\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif h
+ atırlama\, konu başına ~8 dk): ML fundamentals (D+1)\n[ ] CMPE453 (8 dk
+ ): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): PWM (AVR
+ ) (D+1)\n\nİSTEĞE BAĞLI EK (toplam ≈295 dk):\n[ ] BIO110 (8 dk): Tekr
+ ar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Chromosomal Bas
+ is of Inheritance (D+14)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif 
+ hatırlama\, konu başına ~8 dk): Interrupts (D+14)\n[ ] CMPE371 (8 dk): 
+ Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): CTFT (D+14)
+ \n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru/ya
+ nlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; RE
+ PLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Proje sun
+ umları (10–31 Ara) (11 gü)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-11-30@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:CMPE327 · Chomsky Normal Form · P2 · Min 2\,6sa
+DESCRIPTION:Ana odak: CMPE327 → CMPE327 Quiz-2 (14–18 Ara haftası) (14
+  gün) · Chomsky Normal Form + CYK algoritması\nFaz: Faz 4 — Assignmen
+ t-1 (26 Kas)\, CMPE327 Midterm (29 Kas)\, CMPE371 Midterm (30 Kas)\n\nMİN
+ İMUM PLAN (≈156 dk):\n[ ] CMPE327 (70 dk): Chomsky Normal Form — ε/b
+ irim/yararsız kural eleme\, CNF dönüşümü. ▸ 5 CNF dönüştürme\n
+ [ ] CMPE327 (70 dk): CYK algoritması — CYK tablosu\, üyelik testi. ▸
+  6 CYK tablosu\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): Descent with Modification (D+1)\n[ ] CMPE421 (8 dk
+ ): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Classifi
+ cation and regression (D+1)\n\nİSTEĞE BAĞLI EK (toplam ≈164 dk):\n[ ]
+  BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 
+ dk): Molecular Basis of Inheritance (D+14)\n\nTamamlanma kriteri: min gör
+ evler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapam
+ adığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeni
+ den planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 → CMPE327 Quiz-2
+  (14–18 Ara haftası) (14 g)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-01@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:CMPE371 · DTFS · P1 · Min 2\,4sa
+DESCRIPTION:Ana odak: CMPE371 → CMPE371 Quiz 1 (7–11 Ara haftası) (6 g
+ ün) · DTFS\nFaz: Faz 5 — Kalan konular\, quizler\, proje\, final hazı
+ rlığı\n\nMİNİMUM PLAN (≈142 dk):\n[ ] GENEL (30 dk): Sınav sonras
+ ı analiz — Biten sınavların yanlış/eksik konularını Mistake Log'a
+  işle. ▸ Zayıf konular için Revision Schedule'a ek tekrar yaz\n[ ] CM
+ PE371 (80 dk): DTFS — ayrık periyodik sinyaller\, katsayılar\, CTFS il
+ e karşılaştırma. ▸ 5 katsayı hesabı + 3 yorum\n[ ] CMPE327 (16 dk)
+ : Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Chomsky N
+ ormal Form (D+1)\; CYK algoritması (D+1)\n[ ] CMPE421 (8 dk): Tekrar (kap
+ alı kitap aktif hatırlama\, konu başına ~8 dk): ML fundamentals (D+3)\
+ n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başın
+ a ~8 dk): PWM (AVR) (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈158 dk):\n[ ] B
+ IO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk
+ ): Gene Expression: Gene to Protein (D+14)\n[ ] CMPE453 (8 dk): Tekrar (ka
+ palı kitap aktif hatırlama\, konu başına ~8 dk): Timers/counters (D+14
+ )\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru/y
+ anlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; R
+ EPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 → CMPE371 Quiz 1
+  (7–11 Ara haftası) (6 gün)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-02@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:CMPE371 · DTFT · P1 · Min 3\,2sa
+DESCRIPTION:Ana odak: CMPE371 → CMPE371 Quiz 1 (7–11 Ara haftası) (5 g
+ ün) · DTFT\nFaz: Faz 5 — Kalan konular\, quizler\, proje\, final hazı
+ rlığı\n\nMİNİMUM PLAN (≈194 dk):\n[ ] BIO110 (80 dk): The Evolution
+  of Populations — gen havuzu\, Hardy–Weinberg\, genetik sürüklenme\,
+  gen akışı\, seçilim türleri. ▸ 6 Hardy–Weinberg problemi + 12 so
+ ru\n[ ] CMPE371 (90 dk): DTFT — tanım\, çiftler\, özellikler\, LTI fr
+ ekans yanıtı. ▸ 6 dönüşüm + 4 özellik sorusu\n[ ] CMPE371 (8 dk):
+  Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): DTFS (D+1)
+ \n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başın
+ a ~8 dk): Descent with Modification (D+3)\n[ ] CMPE421 (8 dk): Tekrar (kap
+ alı kitap aktif hatırlama\, konu başına ~8 dk): Classification and reg
+ ression (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈202 dk):\n[ ] BIO110 (8 dk)
+ : Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Regulatio
+ n of Gene Expression (D+14)\n\nTamamlanma kriteri: min görevler işaretli
+  + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın göre
+ v: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 → CMPE371 Quiz 1
+  (7–11 Ara haftası) (5 gün)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-03@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:CMPE327 · Pumping lemma + non-regularity · P2 · Min 2\,0sa
+DESCRIPTION:Ana odak: CMPE327 → CMPE327 Quiz-2 (14–18 Ara haftası) (11
+  gün) · Pumping lemma + non-regularity\nFaz: Faz 5 — Kalan konular\, q
+ uizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈122 dk):\n[ ] C
+ MPE327 (90 dk): Pumping lemma + non-regularity — pumping lemma ispat şa
+ blonu\, karşı örnek seçimi. ▸ 8 dil için düzenli değil ispatı\n[
+  ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~
+ 8 dk): The Evolution of Populations (D+1)\n[ ] CMPE371 (8 dk): Tekrar (kap
+ alı kitap aktif hatırlama\, konu başına ~8 dk): DTFT (D+1)\n[ ] CMPE32
+ 7 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): 
+ Chomsky Normal Form (D+3)\; CYK algoritması (D+3)\n\nİSTEĞE BAĞLI EK (
+ toplam ≈130 dk):\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırl
+ ama\, konu başına ~8 dk): DNA Tools and Biotechnology (D+14)\n\nTamamlan
+ ma kriteri: min görevler işaretli + her blok sonunda soru/yanlış anali
+ zi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.m
+ d adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 → CMPE327 Quiz-2
+  (14–18 Ara haftası) (11 g)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-04@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:BIO110 · Proje: içerik araştırma/yazım · P2 · Min 2\,8sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Proje sunumları (10–31 Ara) (6 g
+ ün) · Proje: içerik araştırma/yazım\nFaz: Faz 5 — Kalan konular\, 
+ quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈166 dk):\n[ ] 
+ BIO110 (90 dk): Proje: içerik araştırma/yazım — slayt içeriği tasl
+ ağı. ▸ Her slayt için 3 madde\n[ ] CMPE453 (60 dk): ARM Cortex / STM3
+ 2 Discovery temelleri — Cortex-M mimarisi\, kart donanımı\, saat ağac
+ ı. ▸ 10 kavram sorusu\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif 
+ hatırlama\, konu başına ~8 dk): Pumping lemma + non-regularity (D+1)\n[
+  ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına 
+ ~8 dk): DTFS (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈226 dk):\n[ ] CMPE371 
+ (60 dk): Quiz-1 hazırlık — DTFS/DTFT + önceki konulardan karma. ▸ 1
+ 5 kısa soru\, süreli\n\nTamamlanma kriteri: min görevler işaretli + he
+ r blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev: er
+ tesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Proje sun
+ umları (10–31 Ara) (6 gün)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-05@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:BIO110 · Proje: slayt tasarımı · P2 · Min 3\,2sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Proje sunumları (10–31 Ara) (5 g
+ ün) · Proje: slayt tasarımı\nFaz: Faz 5 — Kalan konular\, quizler\, 
+ proje\, final hazırlığı\n\nMİNİMUM PLAN (≈194 dk):\n[ ] CMPE421 (8
+ 0 dk): Neural networks and deep learning — perceptron\, aktivasyon\, ger
+ i yayılım\, CNN/RNN temelleri. ▸ 3 ileri-geri yayılım hesabı\n[ ] B
+ IO110 (90 dk): Proje: slayt tasarımı — görseller\, akış\, kaynakça
+ . ▸ Tüm slaytları bitir\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap akt
+ if hatırlama\, konu başına ~8 dk): ARM Cortex / STM32 Discovery temelle
+ ri (D+1)\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu
+  başına ~8 dk): The Evolution of Populations (D+3)\n[ ] CMPE371 (8 dk): 
+ Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): DTFT (D+3)\
+ n\nİSTEĞE BAĞLI EK (toplam ≈210 dk):\n[ ] CMPE421 (8 dk): Tekrar (kap
+ alı kitap aktif hatırlama\, konu başına ~8 dk): ML fundamentals (D+7)\
+ n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başın
+ a ~8 dk): PWM (AVR) (D+7)\n\nTamamlanma kriteri: min görevler işaretli +
+  her blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev:
+  ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Proje sun
+ umları (10–31 Ara) (5 gün)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-06@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:BIO110 · Proje: prova · P2 · Min 4\,9sa
+DESCRIPTION:Ana odak: BIO110 → BIO110 Proje sunumları (10–31 Ara) (4 g
+ ün) · Proje: prova + Proje: son kontrol\nFaz: Faz 5 — Kalan konular\, 
+ quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈296 dk):\n[ ] 
+ CMPE327 (90 dk): Pushdown automata — PDA tanımı\, tasarım\, CFG↔PDA
+ . ▸ 6 PDA tasarla/izle\n[ ] BIO110 (60 dk): Proje: prova — süreli sun
+ um provası. ▸ 2 tam prova\, süre ≤ hoca sınırı\n[ ] BIO110 (40 dk
+ ): Proje: son kontrol — dosya yedeği\, soru-cevap hazırlığı. ▸ PD
+ F + PPT yedeği\n[ ] CMPE421 (90 dk): Homework çalışma — ödev metni 
+ (tarih doğrulanınca ayarla). ▸ ödevi bitir + kontrol\n[ ] CMPE421 (8 
+ dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Neural
+  networks and deep learning (D+1)\n[ ] CMPE327 (8 dk): Tekrar (kapalı kit
+ ap aktif hatırlama\, konu başına ~8 dk): Pumping lemma + non-regularity
+  (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈312 dk):\n[ ] BIO110 (8 dk): Tekra
+ r (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Descent with Mod
+ ification (D+7)\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlam
+ a\, konu başına ~8 dk): Classification and regression (D+7)\n\nTamamlanm
+ a kriteri: min görevler işaretli + her blok sonunda soru/yanlış analiz
+ i yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md
+  adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 → BIO110 Proje sun
+ umları (10–31 Ara) (4 gün)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-07@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:CMPE453 · STM32 GPIO + LED · P2 · Min 2\,8sa
+DESCRIPTION:Ana odak: CMPE453 · STM32 GPIO + LED\nFaz: Faz 5 — Kalan kon
+ ular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈166 dk)
+ :\n[ ] CMPE421 (70 dk): NLP and LLMs — tokenizasyon\, gömme\, dikkat/tr
+ ansformer\, LLM sınırları. ▸ 10 kavram sorusu\n[ ] CMPE453 (80 dk): S
+ TM32 GPIO + LED — GPIO modları\, RCC saat açma\, MODER/ODR\, LED yakma
+ . ▸ 5 register yapılandırması (kağıt) (Lab 5)\n[ ] CMPE327 (8 dk): 
+ Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Pushdown au
+ tomata (D+1)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\,
+  konu başına ~8 dk): ARM Cortex / STM32 Discovery temelleri (D+3)\n\nİS
+ TEĞE BAĞLI EK (toplam ≈182 dk):\n[ ] CMPE327 (16 dk): Tekrar (kapalı 
+ kitap aktif hatırlama\, konu başına ~8 dk): Chomsky Normal Form (D+7)\;
+  CYK algoritması (D+7)\n\nTamamlanma kriteri: min görevler işaretli + h
+ er blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev: e
+ rtesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 · STM32 GPIO + LE
+ D)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-08@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:CMPE371 · Filtering · P2 · Min 2\,7sa
+DESCRIPTION:Ana odak: CMPE371 · Filtering\nFaz: Faz 5 — Kalan konular\, 
+ quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈164 dk):\n[ ] 
+ CMPE327 (60 dk): Ogden's lemma — tanım\, pumping lemma farkı\, uygulam
+ a. ▸ 4 problem\n[ ] CMPE371 (80 dk): Filtering — alçak/yüksek/bant g
+ eçiren filtre\, ideal vs gerçek\, frekans yanıtı. ▸ 6 filtre problem
+ i\n[ ] CMPE421 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, konu baş
+ ına ~8 dk): NLP and LLMs (D+1)\; Neural networks and deep learning (D+3)\
+ n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başın
+ a ~8 dk): STM32 GPIO + LED (D+1)\n\nİSTEĞE BAĞLI EK (toplam ≈172 dk):
+ \n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başı
+ na ~8 dk): DTFS (D+7)\n\nTamamlanma kriteri: min görevler işaretli + her
+  blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev: ert
+ esi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 · Filtering)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-09@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:CMPE421 · Reinforcement learning · P2 · Min 2\,7sa
+DESCRIPTION:Ana odak: CMPE421 · Reinforcement learning\nFaz: Faz 5 — Kal
+ an konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈1
+ 64 dk):\n[ ] CMPE327 (60 dk): Quiz-2 hazırlık — CNF/CYK/PDA/pumping. 
+ ▸ 15 kısa soru\, süreli\n[ ] CMPE421 (80 dk): Reinforcement learning 
+ — MDP\, ödül\, Q-learning\, keşif–sömürü. ▸ 3 Q-learning günc
+ ellemesi\n[ ] CMPE327 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, ko
+ nu başına ~8 dk): Ogden's lemma (D+1)\; Pushdown automata (D+3)\n[ ] CMP
+ E371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk)
+ : Filtering (D+1)\n\nİSTEĞE BAĞLI EK (toplam ≈180 dk):\n[ ] BIO110 (8
+  dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): The E
+ volution of Populations (D+7)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap a
+ ktif hatırlama\, konu başına ~8 dk): DTFT (D+7)\n\nTamamlanma kriteri: 
+ min görevler işaretli + her blok sonunda soru/yanlış analizi yapıldı
+ .\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımları
+ yla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 · Reinforcement l
+ earning)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-10@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:CMPE421 · Kümülatif tekrar: önceki konulardan karma · P2 · Mi
+ n 3\,4sa
+DESCRIPTION:Ana odak: CMPE421 · Kümülatif tekrar: önceki konulardan kar
+ ma\nFaz: Faz 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n
+ \nMİNİMUM PLAN (≈204 dk):\n[ ] CMPE421 (60 dk): Kümülatif tekrar: ö
+ nceki konulardan karma — dönemin ilk konularından unutulanları yakala
+  (Topic Mastery'de düşük olanlar). ▸ 20 karışık soru + zayıf konu
+  notu\n[ ] CMPE327 (60 dk): Kümülatif tekrar: önceki konulardan karma 
+ — dönemin ilk konularından unutulanları yakala (Topic Mastery'de dü
+ şük olanlar). ▸ 20 karışık soru + zayıf konu notu\n[ ] BIO110 (60 
+ dk): Kümülatif tekrar: önceki konulardan karma — dönemin ilk konular
+ ından unutulanları yakala (Topic Mastery'de düşük olanlar). ▸ 20 ka
+ rışık soru + zayıf konu notu\n[ ] CMPE421 (16 dk): Tekrar (kapalı kit
+ ap aktif hatırlama\, konu başına ~8 dk): Reinforcement learning (D+1)\;
+  NLP and LLMs (D+3)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatı
+ rlama\, konu başına ~8 dk): STM32 GPIO + LED (D+3)\n\nİSTEĞE BAĞLI EK
+  (toplam ≈212 dk):\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hat
+ ırlama\, konu başına ~8 dk): Pumping lemma + non-regularity (D+7)\n\nTa
+ mamlanma kriteri: min görevler işaretli + her blok sonunda soru/yanlış
+  analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_G
+ UIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 · Kümülatif tek
+ rar: önceki konulardan karm)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-11@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:CMPE371 · Kümülatif tekrar: önceki konulardan karma · P1 · Mi
+ n 2\,3sa
+DESCRIPTION:Ana odak: CMPE371 · Kümülatif tekrar: önceki konulardan kar
+ ma\nFaz: Faz 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n
+ \nMİNİMUM PLAN (≈136 dk):\n[ ] CMPE453 (60 dk): Kümülatif tekrar: ö
+ nceki konulardan karma — dönemin ilk konularından unutulanları yakala
+  (Topic Mastery'de düşük olanlar). ▸ 20 karışık soru + zayıf konu
+  notu\n[ ] CMPE371 (60 dk): Kümülatif tekrar: önceki konulardan karma 
+ — dönemin ilk konularından unutulanları yakala (Topic Mastery'de dü
+ şük olanlar). ▸ 20 karışık soru + zayıf konu notu\n[ ] CMPE327 (8 
+ dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Ogden'
+ s lemma (D+3)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): Filtering (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈1
+ 44 dk):\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu
+  başına ~8 dk): ARM Cortex / STM32 Discovery temelleri (D+7)\n\nTamamlan
+ ma kriteri: min görevler işaretli + her blok sonunda soru/yanlış anali
+ zi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.m
+ d adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 · Kümülatif tek
+ rar: önceki konulardan karm)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-12@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:CMPE453 · PWM for ARM Cortex · P2 · Min 2\,3sa
+DESCRIPTION:Ana odak: CMPE453 · PWM for ARM Cortex\nFaz: Faz 5 — Kalan k
+ onular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈138 d
+ k):\n[ ] CMPE453 (80 dk): PWM for ARM Cortex — Timer\, ARR/PSC/CCR\, PWM
+  modları. ▸ 5 hesap + 2 kod (Lab 6)\n[ ] CMPE421 (50 dk): Ethics\, expl
+ ainability\, responsible AI — önyargı\, açıklanabilirlik\, sorumlu A
+ I ilkeleri. ▸ kısa yazılı cevap 3 adet\n[ ] CMPE421 (8 dk): Tekrar (k
+ apalı kitap aktif hatırlama\, konu başına ~8 dk): Reinforcement learni
+ ng (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈162 dk):\n[ ] CMPE421 (16 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Neural netwo
+ rks and deep learning (D+7)\; ML fundamentals (D+14)\n[ ] CMPE453 (8 dk): 
+ Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): PWM (AVR) (
+ D+14)\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda so
+ ru/yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA
+ \; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 · PWM for ARM Cor
+ tex)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-13@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:CMPE327 · Turing machines · P2 · Min 4\,3sa
+DESCRIPTION:Ana odak: CMPE327 → CMPE327 Quiz-2 (14–18 Ara haftası) (1 
+ gün) · Turing machines + Decision problems\nFaz: Faz 5 — Kalan konular
+ \, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈256 dk):\n[
+  ] CMPE371 (90 dk): Sampling — örnekleme teoremi\, aliasing\, yeniden o
+ luşturma. ▸ 6 problem (Nyquist\, aliasing)\n[ ] CMPE327 (90 dk): Turing
+  machines — TM tanımı\, tasarım\, konfigürasyon izleme. ▸ 5 TM tas
+ arla/izle\n[ ] CMPE327 (60 dk): Decision problems — karar verilebilirlik
+ \, tanınabilir diller\, temel problemler. ▸ kavram soruları + 4 örnek
+ \n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başı
+ na ~8 dk): Ethics\, explainability\, responsible AI (D+1)\n[ ] CMPE453 (8 
+ dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): PWM fo
+ r ARM Cortex (D+1)\n\nİSTEĞE BAĞLI EK (toplam ≈280 dk):\n[ ] CMPE327 
+ (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Pus
+ hdown automata (D+7)\n[ ] BIO110 (8 dk): Tekrar (kapalı kitap aktif hatı
+ rlama\, konu başına ~8 dk): Descent with Modification (D+14)\n[ ] CMPE42
+ 1 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): C
+ lassification and regression (D+14)\n\nTamamlanma kriteri: min görevler i
+ şaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapamadığ
+ ın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden pl
+ anla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 → CMPE327 Quiz-2
+  (14–18 Ara haftası) (1 gü)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-14@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:CMPE327 · Final: konu haritası + zayıf alanlar · P2 · Min 3\,4
+ sa
+DESCRIPTION:Ana odak: CMPE327 → CMPE327 Quiz-2 (14–18 Ara haftası) (0 
+ gün) · Final: konu haritası + zayıf alanlar\nFaz: Faz 5 — Kalan konu
+ lar\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈204 dk):
+ \n[ ] CMPE421 (90 dk): Final: konu haritası + zayıf alanlar — tüm syl
+ labus konularını işaretle: güçlü/orta/zayıf (Topic Mastery). ▸ Za
+ yıf konuları sırala\n[ ] CMPE327 (90 dk): Final: konu haritası + zayı
+ f alanlar — tüm syllabus konularını işaretle: güçlü/orta/zayıf (
+ Topic Mastery). ▸ Zayıf konuları sırala\n[ ] CMPE327 (16 dk): Tekrar 
+ (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Turing machines (D
+ +1)\; Decision problems (D+1)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap a
+ ktif hatırlama\, konu başına ~8 dk): Sampling (D+1)\n\nİSTEĞE BAĞLI 
+ EK (toplam ≈236 dk):\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif ha
+ tırlama\, konu başına ~8 dk): NLP and LLMs (D+7)\n[ ] CMPE453 (8 dk): T
+ ekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): STM32 GPIO +
+  LED (D+7)\n[ ] CMPE327 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, 
+ konu başına ~8 dk): Chomsky Normal Form (D+14)\; CYK algoritması (D+14)
+ \n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru/ya
+ nlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; RE
+ PLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 → CMPE327 Quiz-2
+  (14–18 Ara haftası) (0 gü)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-15@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:CMPE453 · Final: konu haritası + zayıf alanlar · P2 · Min 3\,3
+ sa
+DESCRIPTION:Ana odak: CMPE453 · Final: konu haritası + zayıf alanlar\nFa
+ z: Faz 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİN
+ İMUM PLAN (≈196 dk):\n[ ] BIO110 (90 dk): Final: konu haritası + zayı
+ f alanlar — tüm syllabus konularını işaretle: güçlü/orta/zayıf (
+ Topic Mastery). ▸ Zayıf konuları sırala\n[ ] CMPE453 (90 dk): Final: 
+ konu haritası + zayıf alanlar — tüm syllabus konularını işaretle: 
+ güçlü/orta/zayıf (Topic Mastery). ▸ Zayıf konuları sırala\n[ ] CM
+ PE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk
+ ): Ethics\, explainability\, responsible AI (D+3)\n[ ] CMPE453 (8 dk): Tek
+ rar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): PWM for ARM Co
+ rtex (D+3)\n\nİSTEĞE BAĞLI EK (toplam ≈220 dk):\n[ ] CMPE327 (8 dk): 
+ Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Ogden's lem
+ ma (D+7)\n[ ] CMPE371 (16 dk): Tekrar (kapalı kitap aktif hatırlama\, ko
+ nu başına ~8 dk): Filtering (D+7)\; DTFS (D+14)\n\nTamamlanma kriteri: m
+ in görevler işaretli + her blok sonunda soru/yanlış analizi yapıldı.
+ \nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıy
+ la yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 · Final: konu har
+ itası + zayıf alanlar)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-16@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:CMPE371 · Final: konu haritası + zayıf alanlar · P1 · Min 1\,9
+ sa
+DESCRIPTION:Ana odak: CMPE371 · Final: konu haritası + zayıf alanlar\nFa
+ z: Faz 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİN
+ İMUM PLAN (≈114 dk):\n[ ] CMPE371 (90 dk): Final: konu haritası + zay
+ ıf alanlar — tüm syllabus konularını işaretle: güçlü/orta/zayıf
+  (Topic Mastery). ▸ Zayıf konuları sırala\n[ ] CMPE327 (16 dk): Tekra
+ r (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Turing machines 
+ (D+3)\; Decision problems (D+3)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap
+  aktif hatırlama\, konu başına ~8 dk): Sampling (D+3)\n\nİSTEĞE BAĞL
+ I EK (toplam ≈138 dk):\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif 
+ hatırlama\, konu başına ~8 dk): Reinforcement learning (D+7)\n[ ] BIO11
+ 0 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): T
+ he Evolution of Populations (D+14)\n[ ] CMPE371 (8 dk): Tekrar (kapalı ki
+ tap aktif hatırlama\, konu başına ~8 dk): DTFT (D+14)\n\nTamamlanma kri
+ teri: min görevler işaretli + her blok sonunda soru/yanlış analizi yap
+ ıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adı
+ mlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 · Final: konu har
+ itası + zayıf alanlar)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-17@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:CMPE371 · Z-Transform · P1 · Min 1\,7sa
+DESCRIPTION:Ana odak: CMPE371 · Z-Transform\nFaz: Faz 5 — Kalan konular\
+ , quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈100 dk):\n[ 
+ ] CMPE371 (100 dk): Z-Transform — tanım\, ROC\, çiftler\, ters Z\, far
+ k denklemi çözümü. ▸ 6 dönüşüm + 4 ters Z\n\nİSTEĞE BAĞLI EK 
+ (toplam ≈108 dk):\n[ ] CMPE327 (8 dk): Tekrar (kapalı kitap aktif hatı
+ rlama\, konu başına ~8 dk): Pumping lemma + non-regularity (D+14)\n\nTam
+ amlanma kriteri: min görevler işaretli + her blok sonunda soru/yanlış 
+ analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GU
+ IDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 · Z-Transform)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-18@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:CMPE421 · Final: karma deneme · P2 · Min 2\,1sa
+DESCRIPTION:Ana odak: CMPE421 · Final: karma deneme\nFaz: Faz 5 — Kalan 
+ konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈128 
+ dk):\n[ ] CMPE421 (120 dk): Final: karma deneme — tüm dönem karma. ▸
+  Süreli deneme (≈ final formatı\, tahmini)\n[ ] CMPE371 (8 dk): Tekrar
+  (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Z-Transform (D+1)
+ \n\nİSTEĞE BAĞLI EK (toplam ≈136 dk):\n[ ] CMPE453 (8 dk): Tekrar (ka
+ palı kitap aktif hatırlama\, konu başına ~8 dk): ARM Cortex / STM32 Di
+ scovery temelleri (D+14)\n\nTamamlanma kriteri: min görevler işaretli + 
+ her blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev: 
+ ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 · Final: karma de
+ neme)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-19@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:CMPE327 · Final: karma deneme · P2 · Min 2\,0sa
+DESCRIPTION:Ana odak: CMPE327 · Final: karma deneme\nFaz: Faz 5 — Kalan 
+ konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈120 
+ dk):\n[ ] CMPE327 (120 dk): Final: karma deneme — tüm dönem karma. ▸
+  Süreli deneme (≈ final formatı\, tahmini)\n\nİSTEĞE BAĞLI EK (topl
+ am ≈144 dk):\n[ ] CMPE421 (16 dk): Tekrar (kapalı kitap aktif hatırlam
+ a\, konu başına ~8 dk): Ethics\, explainability\, responsible AI (D+7)\;
+  Neural networks and deep learning (D+14)\n[ ] CMPE453 (8 dk): Tekrar (kap
+ alı kitap aktif hatırlama\, konu başına ~8 dk): PWM for ARM Cortex (D+
+ 7)\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru/
+ yanlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; 
+ REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 · Final: karma de
+ neme)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-20@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:BIO110 · Final: karma deneme · P2 · Min 4\,1sa
+DESCRIPTION:Ana odak: BIO110 · Final: karma deneme\nFaz: Faz 5 — Kalan k
+ onular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈248 d
+ k):\n[ ] BIO110 (120 dk): Final: karma deneme — tüm dönem karma. ▸ S
+ üreli deneme (≈ final formatı\, tahmini)\n[ ] CMPE453 (120 dk): Final:
+  karma deneme — tüm dönem karma. ▸ Süreli deneme (≈ final format
+ ı\, tahmini)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\
+ , konu başına ~8 dk): Z-Transform (D+3)\n\nİSTEĞE BAĞLI EK (toplam 
+ ≈280 dk):\n[ ] CMPE327 (24 dk): Tekrar (kapalı kitap aktif hatırlama\,
+  konu başına ~8 dk): Turing machines (D+7)\; Decision problems (D+7)\; P
+ ushdown automata (D+14)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif h
+ atırlama\, konu başına ~8 dk): Sampling (D+7)\n\nTamamlanma kriteri: mi
+ n görevler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\
+ nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyl
+ a yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 · Final: karma dene
+ me)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-21@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:CMPE371 · Final: karma deneme · P1 · Min 3\,0sa
+DESCRIPTION:Ana odak: CMPE371 · Final: karma deneme\nFaz: Faz 5 — Kalan 
+ konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈180 
+ dk):\n[ ] CMPE371 (120 dk): Final: karma deneme — tüm dönem karma. ▸
+  Süreli deneme (≈ final formatı\, tahmini)\n[ ] CMPE421 (60 dk): Final
+ : yanlış defteri turu — Mistake Log'daki tekrar eden hatalar. ▸ Yanl
+ ış konulardan 15 soru\n\nİSTEĞE BAĞLI EK (toplam ≈196 dk):\n[ ] CMP
+ E421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk)
+ : NLP and LLMs (D+14)\n[ ] CMPE453 (8 dk): Tekrar (kapalı kitap aktif hat
+ ırlama\, konu başına ~8 dk): STM32 GPIO + LED (D+14)\n\nTamamlanma krit
+ eri: min görevler işaretli + her blok sonunda soru/yanlış analizi yap
+ ıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adı
+ mlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE371 (Ana odak: CMPE371 · Final: karma de
+ neme)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-22@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:CMPE327 · Final: yanlış defteri turu · P2 · Min 3\,0sa
+DESCRIPTION:Ana odak: CMPE327 · Final: yanlış defteri turu\nFaz: Faz 5 
+ — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLA
+ N (≈180 dk):\n[ ] CMPE327 (60 dk): Final: yanlış defteri turu — Mist
+ ake Log'daki tekrar eden hatalar. ▸ Yanlış konulardan 15 soru\n[ ] BIO
+ 110 (60 dk): Final: yanlış defteri turu — Mistake Log'daki tekrar eden
+  hatalar. ▸ Yanlış konulardan 15 soru\n[ ] CMPE453 (60 dk): Final: yan
+ lış defteri turu — Mistake Log'daki tekrar eden hatalar. ▸ Yanlış 
+ konulardan 15 soru\n\nİSTEĞE BAĞLI EK (toplam ≈196 dk):\n[ ] CMPE327 
+ (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): Ogd
+ en's lemma (D+14)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırl
+ ama\, konu başına ~8 dk): Filtering (D+14)\n\nTamamlanma kriteri: min g
+ örevler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYa
+ pamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla y
+ eniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 · Final: yanlış
+  defteri turu)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-23@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:CMPE421 · Final: karma deneme 2 · P2 · Min 3\,0sa
+DESCRIPTION:Ana odak: CMPE421 · Final: karma deneme 2\nFaz: Faz 5 — Kala
+ n konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈18
+ 0 dk):\n[ ] CMPE371 (60 dk): Final: yanlış defteri turu — Mistake Log'
+ daki tekrar eden hatalar. ▸ Yanlış konulardan 15 soru\n[ ] CMPE421 (12
+ 0 dk): Final: karma deneme 2 — ikinci tam dönem denemesi. ▸ Süreli d
+ eneme\, ardından yanlış analizi\n\nİSTEĞE BAĞLI EK (toplam ≈188 dk
+ ):\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu baş
+ ına ~8 dk): Reinforcement learning (D+14)\n\nTamamlanma kriteri: min gör
+ evler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapam
+ adığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeni
+ den planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 · Final: karma de
+ neme 2)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-24@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:CMPE327 · Final: karma deneme 2 · P2 · Min 2\,0sa
+DESCRIPTION:Ana odak: CMPE327 · Final: karma deneme 2\nFaz: Faz 5 — Kala
+ n konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈12
+ 0 dk):\n[ ] CMPE327 (120 dk): Final: karma deneme 2 — ikinci tam dönem 
+ denemesi. ▸ Süreli deneme\, ardından yanlış analizi\n\nİSTEĞE BAĞ
+ LI EK (toplam ≈128 dk):\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif
+  hatırlama\, konu başına ~8 dk): Z-Transform (D+7)\n\nTamamlanma kriter
+ i: min görevler işaretli + her blok sonunda soru/yanlış analizi yapıl
+ dı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımla
+ rıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 · Final: karma de
+ neme 2)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-25@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:BIO110 · Final: karma deneme 2 · P2 · Min 2\,0sa
+DESCRIPTION:Ana odak: BIO110 · Final: karma deneme 2\nFaz: Faz 5 — Kalan
+  konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈120
+  dk):\n[ ] BIO110 (120 dk): Final: karma deneme 2 — ikinci tam dönem de
+ nemesi. ▸ Süreli deneme\, ardından yanlış analizi\n\nTamamlanma krit
+ eri: min görevler işaretli + her blok sonunda soru/yanlış analizi yap
+ ıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adı
+ mlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: BIO110 (Ana odak: BIO110 · Final: karma dene
+ me 2)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-26@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:CMPE453 · Final: karma deneme 2 · P2 · Min 2\,0sa
+DESCRIPTION:Ana odak: CMPE453 · Final: karma deneme 2\nFaz: Faz 5 — Kala
+ n konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLAN (≈12
+ 0 dk):\n[ ] CMPE453 (120 dk): Final: karma deneme 2 — ikinci tam dönem 
+ denemesi. ▸ Süreli deneme\, ardından yanlış analizi\n\nİSTEĞE BAĞ
+ LI EK (toplam ≈256 dk):\n[ ] CMPE371 (120 dk): Final: karma deneme 2 —
+  ikinci tam dönem denemesi. ▸ Süreli deneme\, ardından yanlış anali
+ zi\n[ ] CMPE421 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu baş
+ ına ~8 dk): Ethics\, explainability\, responsible AI (D+14)\n[ ] CMPE453 
+ (8 dk): Tekrar (kapalı kitap aktif hatırlama\, konu başına ~8 dk): PWM
+  for ARM Cortex (D+14)\n\nTamamlanma kriteri: min görevler işaretli + he
+ r blok sonunda soru/yanlış analizi yapıldı.\nYapamadığın görev: er
+ tesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE453 (Ana odak: CMPE453 · Final: karma de
+ neme 2)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-27@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:CMPE327 · Final: son tur formül/şema/algoritma · P2 · Min 3\,0
+ sa
+DESCRIPTION:Ana odak: CMPE327 · Final: son tur formül/şema/algoritma\nFa
+ z: Faz 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİN
+ İMUM PLAN (≈180 dk):\n[ ] CMPE327 (60 dk): Final: son tur formül/şema
+ /algoritma — tek sayfa özet. ▸ kapalı kitap yeniden yaz\n[ ] BIO110 
+ (60 dk): Final: son tur formül/şema/algoritma — tek sayfa özet. ▸ k
+ apalı kitap yeniden yaz\n[ ] CMPE371 (60 dk): Final: son tur formül/şem
+ a/algoritma — tek sayfa özet. ▸ kapalı kitap yeniden yaz\n\nİSTEĞE
+  BAĞLI EK (toplam ≈204 dk):\n[ ] CMPE327 (16 dk): Tekrar (kapalı kitap
+  aktif hatırlama\, konu başına ~8 dk): Turing machines (D+14)\; Decisio
+ n problems (D+14)\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırl
+ ama\, konu başına ~8 dk): Sampling (D+14)\n\nTamamlanma kriteri: min gö
+ revler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapa
+ madığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yen
+ iden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 · Final: son tur 
+ formül/şema/algoritma)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-28@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:CMPE421 · Final: son tur formül/şema/algoritma · P2 · Min 2\,3
+ sa
+DESCRIPTION:Ana odak: CMPE421 · Final: son tur formül/şema/algoritma\nFa
+ z: Faz 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİN
+ İMUM PLAN (≈140 dk):\n[ ] GENEL (20 dk): Final bilgilerini doğrula —
+  resmi final tarih/saat/salon ve kapsamlar\; açıklanmadıysa bölüm duy
+ urularına bak. ▸ Exam Countdown'a işle\; plan_data.py EVALS güncelle\
+ n[ ] CMPE421 (60 dk): Final: son tur formül/şema/algoritma — tek sayfa
+  özet. ▸ kapalı kitap yeniden yaz\n[ ] CMPE453 (60 dk): Final: son tur
+  formül/şema/algoritma — tek sayfa özet. ▸ kapalı kitap yeniden ya
+ z\n\nTamamlanma kriteri: min görevler işaretli + her blok sonunda soru/y
+ anlış analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; R
+ EPLAN_GUIDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 · Final: son tur 
+ formül/şema/algoritma)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-29@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:CMPE327 · Final: yanlış defteri son tur · P2 · Min 2\,2sa
+DESCRIPTION:Ana odak: CMPE327 · Final: yanlış defteri son tur\nFaz: Faz 
+ 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM P
+ LAN (≈135 dk):\n[ ] CMPE327 (45 dk): Final: yanlış defteri son tur —
+  Mistake Log'da hâlâ tekrar eden hatalar. ▸ 10 soru + hata türü kont
+ rolü\n[ ] BIO110 (45 dk): Final: yanlış defteri son tur — Mistake Log
+ 'da hâlâ tekrar eden hatalar. ▸ 10 soru + hata türü kontrolü\n[ ] C
+ MPE371 (45 dk): Final: yanlış defteri son tur — Mistake Log'da hâlâ 
+ tekrar eden hatalar. ▸ 10 soru + hata türü kontrolü\n\nTamamlanma kri
+ teri: min görevler işaretli + her blok sonunda soru/yanlış analizi yap
+ ıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adı
+ mlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE327 (Ana odak: CMPE327 · Final: yanlış
+  defteri son tur)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-30@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:CMPE421 · Final: yanlış defteri son tur · P2 · Min 1\,5sa
+DESCRIPTION:Ana odak: CMPE421 · Final: yanlış defteri son tur\nFaz: Faz 
+ 5 — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM P
+ LAN (≈90 dk):\n[ ] CMPE421 (45 dk): Final: yanlış defteri son tur — 
+ Mistake Log'da hâlâ tekrar eden hatalar. ▸ 10 soru + hata türü kontr
+ olü\n[ ] CMPE453 (45 dk): Final: yanlış defteri son tur — Mistake Log
+ 'da hâlâ tekrar eden hatalar. ▸ 10 soru + hata türü kontrolü\n\nTam
+ amlanma kriteri: min görevler işaretli + her blok sonunda soru/yanlış 
+ analizi yapıldı.\nYapamadığın görev: ertesi güne YIĞMA\; REPLAN_GU
+ IDE.md adımlarıyla yeniden planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 · Final: yanlış
+  defteri son tur)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-2026-12-31@academic-success-2026
+DTSTAMP:20261027T000000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:CMPE421 · Final: son gün hafif tekrar · P2 · Min 2\,5sa
+DESCRIPTION:Ana odak: CMPE421 · Final: son gün hafif tekrar\nFaz: Faz 5 
+ — Kalan konular\, quizler\, proje\, final hazırlığı\n\nMİNİMUM PLA
+ N (≈150 dk):\n[ ] CMPE421 (30 dk): Final: son gün hafif tekrar — yaln
+ ızca özet sayfası ve zayıf konu kartları\, yeni konu yok. ▸ 20 dk 
+ özet + 10 hızlı soru\, erken uyu\n[ ] CMPE327 (30 dk): Final: son gün 
+ hafif tekrar — yalnızca özet sayfası ve zayıf konu kartları\, yeni 
+ konu yok. ▸ 20 dk özet + 10 hızlı soru\, erken uyu\n[ ] BIO110 (30 dk
+ ): Final: son gün hafif tekrar — yalnızca özet sayfası ve zayıf kon
+ u kartları\, yeni konu yok. ▸ 20 dk özet + 10 hızlı soru\, erken uyu
+ \n[ ] CMPE453 (30 dk): Final: son gün hafif tekrar — yalnızca özet sa
+ yfası ve zayıf konu kartları\, yeni konu yok. ▸ 20 dk özet + 10 hız
+ lı soru\, erken uyu\n[ ] CMPE371 (30 dk): Final: son gün hafif tekrar 
+ — yalnızca özet sayfası ve zayıf konu kartları\, yeni konu yok. ▸
+  20 dk özet + 10 hızlı soru\, erken uyu\n\nİSTEĞE BAĞLI EK (toplam 
+ ≈158 dk):\n[ ] CMPE371 (8 dk): Tekrar (kapalı kitap aktif hatırlama\, 
+ konu başına ~8 dk): Z-Transform (D+14)\n\nTamamlanma kriteri: min görev
+ ler işaretli + her blok sonunda soru/yanlış analizi yapıldı.\nYapamad
+ ığın görev: ertesi güne YIĞMA\; REPLAN_GUIDE.md adımlarıyla yenide
+ n planla.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bugünün planı: CMPE421 (Ana odak: CMPE421 · Final: son gün
+  hafif tekrar)
+TRIGGER:PT8H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

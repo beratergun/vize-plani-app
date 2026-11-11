@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+06_Progress_Tracker/progress.json
+01_Master_Plan/backups/
+*.html.bak
